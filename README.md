@@ -1,9 +1,3 @@
----
-title: Empresas em CWB que possuem setor de tecnologia
-created: 2022-12-29T21:34:03.473Z
-modified: 2022-12-30T02:20:50.149Z
----
-
 # Empresas em CWB que possuem setor de tecnologia
 
 | Nome                                                   | LinkedIn                                                                                    | Vagas                                                                                          |
