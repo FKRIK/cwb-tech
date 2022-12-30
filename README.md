@@ -1,9 +1,3 @@
----
-title: README
-created: 2022-12-30T04:12:33.160Z
-modified: 2022-12-30T05:53:30.925Z
----
-
 ###### README
 
 ## Empresas em Curitiba que possuem setor de tecnologia
