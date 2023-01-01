@@ -1,9 +1,9 @@
 ---
 title: README
+tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2022-12-31T06:39:39.803Z
+modified: 2023-01-01T00:47:40.142Z
 ---
-
 
 ###### README
 
@@ -37,14 +37,16 @@ Este repositório é diariamente atualizado.
 | [Grupo Servopa](http://gruposervopa.com.br/)                  | [Clique Aqui](https://www.linkedin.com/company/grupo-servopa/)                              | [Clique Aqui ➡️](https://servopa.gupy.io/)                                                                                                           |
 | [Ligga](https://liggavc.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/liggavc)                                     | [Clique Aqui ➡️](https://liggatelecom.gupy.io/)                                                                                                      |
 | [MadeiraMadeira](https://www.madeiramadeira.com.br/)          | [Clique Aqui](https://www.linkedin.com/company/madeiramadeira/)                             | [Clique Aqui ➡️](https://madeiracarreira.gupy.io/)                                                                                                   |
+| [Meta](https://www.meta.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/metaoficial)                                 | [Clique Aqui ➡️](https://www.linkedin.com/company/metaoficial/jobs/)                                                                                 |
+| [MPS Informática](https://www.mps.com.br/)                    | [Clique Aqui](https://www.linkedin.com/company/mps-informatica-ltda)                        | [Clique Aqui ➡️](https://www.linkedin.com/company/mps-informatica-ltda/jobs/)                                                                        |
 | [Nexcore](https://nexcore.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/nexcore-tecnologia)                          | [Clique Aqui ➡️](https://nexcore.com.br/trabalhe-conosco/)                                                                                           |
 | [Olist](https://olist.com)                                    | [Clique Aqui](https://www.linkedin.com/company/olist/)                                      | [Clique Aqui ➡️](https://olist.gupy.io/)                                                                                                             |
 | [Paraná Banco](https://site.paranabanco.com.br/)              | [Clique Aqui](https://www.linkedin.com/company/paran-banco-s-a/)                            | [Clique Aqui ➡️](https://jobs.quickin.io/paranabanco/jobs)                                                                                           |
 | [Pequeno Principe](pequenoprincipe.org.br/hospital/)          | [Clique Aqui](https://www.linkedin.com/company/hospitalpequenoprincipe/)                    | [Clique Aqui ➡️](https://trabalheconosco.vagas.com.br/hpp)                                                                                           |
 | [PixLog](https://pixlog.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/pixlog/)                                     | [Clique Aqui ➡️](https://www.linkedin.com/company/pixlog/jobs)                                                                                       |
 | [Positivo Tecnologia](https://www.positivotecnologia.com.br/) | [Clique Aqui](https://www.linkedin.com/company/positivo-tecnologia)                         | [Clique Aqui ➡️](https://positivotecnologia.gupy.io/)                                                                                                |
-| [ROIT](https://roit.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/roit-ai/)                                    | [Clique Aqui ➡️](https://www.glassdoor.com.br/Vagas/ROIT-Vagas-E2492726.htm)                                                                         |
 | [Renault](https://www.renault.com.br/)                        | [Clique Aqui](https://www.linkedin.com/company/renaultgroup/)                               | [Clique Aqui ➡️](https://jobs.kenoby.com/renaultbrasil/)                                                                                             |
+| [ROIT](https://roit.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/roit-ai/)                                    | [Clique Aqui ➡️](https://www.glassdoor.com.br/Vagas/ROIT-Vagas-E2492726.htm)                                                                         |
 | [Signo Soluções Web](https://site.signoweb.com.br/)           | [Clique Aqui](https://www.linkedin.com/company/signoweb/)                                   | [Clique Aqui ➡️](https://signoweb.abler.com.br/)                                                                                                     |
 | [Sistema FIEP](https://www.sistemafiep.org.br/)               | [Clique Aqui](https://www.linkedin.com/company/sistemafiep/)                                | [Clique Aqui ➡️](https://jobs.jobconvo.com/pt-br/careers/sistema-fiep/35ad6a0f-51a9-4b5f-b1fe-154124819dfd/)                                         |
 | [Spacecom Monitoramento](https://www.spacecom.com.br/)        | [Clique Aqui](https://www.linkedin.com/company/spacecomm/)                                  | [Clique Aqui ➡️](https://spacecom.solides.jobs/)                                                                                                     |
@@ -54,7 +56,3 @@ Este repositório é diariamente atualizado.
 | [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                   | [Clique Aqui ➡️](https://vivo.gupy.io/)                                                                                                              |
 | [Volvo](https://www.volvocars.com/br)                         | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                    |
 | [Wipro](https://www.wipro.com/)                               | [Clique Aqui](https://www.linkedin.com/company/wipro)                                       | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7) |
-
-
-
-
