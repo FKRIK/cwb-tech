@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-01T00:47:40.142Z
+modified: 2023-01-01T00:51:58.842Z
 ---
 
 ###### README
@@ -31,7 +31,7 @@ Este repositório é diariamente atualizado.
 | [Equiplano](https://www.equiplano.com.br/index.php)           | [Clique Aqui](https://www.linkedin.com/company/equiplano/)                                  | [Clique Aqui ➡️](https://equiplanosistemas.solides.jobs/)                                                                                            |
 | [Exati](https://exati.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/exati-tecnologia/)                           | [Clique Aqui ➡️](https://exati.solides.jobs/)                                                                                                        |
 | [Grupo Barigui](https://www.grupobarigui.com.br/)             | [Clique Aqui](https://www.linkedin.com/company/grupo-barigui/)                              | [Clique Aqui ➡️](https://grupobarigui.abler.com.br/)                                                                                                 |
-| [Grupo Boticário]()                                           | [Clique Aqui](https://www.linkedin.com/company/grupo-boticario/)                            | [Clique Aqui ➡️](https://grupoboticario.gupy.io/)                                                                                                    |
+| [Grupo Boticário](https://www.grupoboticario.com.br/)         | [Clique Aqui](https://www.linkedin.com/company/grupo-boticario/)                            | [Clique Aqui ➡️](https://grupoboticario.gupy.io/)                                                                                                    |
 | [Grupo Marista](http://www.grupomarista.org.br)               | [Clique Aqui](https://www.linkedin.com/company/grupo-marista/)                              | [Clique Aqui ➡️](https://jobs.kenoby.com/grupomarista)                                                                                               |
 | [Grupo Services](https://gruposervices.com.br/)               | [Clique Aqui](https://www.linkedin.com/company/gruposervicesbywebhelp/)                     | [Clique Aqui ➡️](https://www.linkedin.com/company/gruposervicesbywebhelp/jobs/)                                                                      |
 | [Grupo Servopa](http://gruposervopa.com.br/)                  | [Clique Aqui](https://www.linkedin.com/company/grupo-servopa/)                              | [Clique Aqui ➡️](https://servopa.gupy.io/)                                                                                                           |
