@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-01T00:51:58.842Z
+modified: 2023-01-02T02:55:58.665Z
 ---
 
 ###### README
@@ -14,6 +14,7 @@ Este repositório é diariamente atualizado.
 | Nome                                                          | LinkedIn                                                                                    | Vagas 🔗                                                                                                                                             |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Agres](https://agres.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/agresagricultura)                            | [Clique Aqui ➡️](https://agres.com.br/oportunidades/)                                                                                                |
+| [Agrotis](https://www.agrotis.com/)                           | [Clique Aqui](https://www.linkedin.com/company/softwareagrotis/)                            | [Clique Aqui ➡️](https://agrotis.gupy.io/)                                                                                                           |
 | [Alper](https://agenciaalper.com.br)                          | [Clique Aqui](https://www.linkedin.com/company/agencia-alper/)                              | [Clique Aqui ➡️](https://agenciaalper.com.br/trabalhe-conosco/)                                                                                      |
 | [Autoconf](https://autoconf.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/autoconf)                                    | [Clique Aqui ➡️](https://www.linkedin.com/company/autoconf/jobs/)                                                                                    |
 | [Banco Bari](https://bancobari.com.br/)                       | [Clique Aqui](https://www.linkedin.com/company/bancobari/)                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/bancobari/jobs/)                                                                                   |
