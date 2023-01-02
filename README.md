@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-02T02:55:58.665Z
+modified: 2023-01-02T21:18:25.954Z
 ---
 
 ###### README
@@ -31,11 +31,14 @@ Este repositório é diariamente atualizado.
 | [Embarca](https://www.embarca.ai/)                            | [Clique Aqui](https://www.linkedin.com/company/embarcabrasil/)                              | [Clique Aqui ➡️](https://embarca.abler.com.br/)                                                                                                      |
 | [Equiplano](https://www.equiplano.com.br/index.php)           | [Clique Aqui](https://www.linkedin.com/company/equiplano/)                                  | [Clique Aqui ➡️](https://equiplanosistemas.solides.jobs/)                                                                                            |
 | [Exati](https://exati.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/exati-tecnologia/)                           | [Clique Aqui ➡️](https://exati.solides.jobs/)                                                                                                        |
+| [GRPCOM](https://www.grpcom.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/grpcom)                                      | [Clique Aqui ➡️](https://grpcom.gupy.io/)                                                                                                            |
 | [Grupo Barigui](https://www.grupobarigui.com.br/)             | [Clique Aqui](https://www.linkedin.com/company/grupo-barigui/)                              | [Clique Aqui ➡️](https://grupobarigui.abler.com.br/)                                                                                                 |
 | [Grupo Boticário](https://www.grupoboticario.com.br/)         | [Clique Aqui](https://www.linkedin.com/company/grupo-boticario/)                            | [Clique Aqui ➡️](https://grupoboticario.gupy.io/)                                                                                                    |
 | [Grupo Marista](http://www.grupomarista.org.br)               | [Clique Aqui](https://www.linkedin.com/company/grupo-marista/)                              | [Clique Aqui ➡️](https://jobs.kenoby.com/grupomarista)                                                                                               |
+| [Grupo Massa](https://grupomassa.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/grupo-massa)                                 | [Clique Aqui ➡️](https://jobs.kenoby.com/grupomassa)                                                                                                 |
 | [Grupo Services](https://gruposervices.com.br/)               | [Clique Aqui](https://www.linkedin.com/company/gruposervicesbywebhelp/)                     | [Clique Aqui ➡️](https://www.linkedin.com/company/gruposervicesbywebhelp/jobs/)                                                                      |
 | [Grupo Servopa](http://gruposervopa.com.br/)                  | [Clique Aqui](https://www.linkedin.com/company/grupo-servopa/)                              | [Clique Aqui ➡️](https://servopa.gupy.io/)                                                                                                           |
+| [Inteliger](www.inteliger.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/inteliger/)                                  | [Clique Aqui ➡️](https://www.inteliger.com.br/vagas-inteliger.html)                                                                                  |
 | [Ligga](https://liggavc.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/liggavc)                                     | [Clique Aqui ➡️](https://liggatelecom.gupy.io/)                                                                                                      |
 | [MadeiraMadeira](https://www.madeiramadeira.com.br/)          | [Clique Aqui](https://www.linkedin.com/company/madeiramadeira/)                             | [Clique Aqui ➡️](https://madeiracarreira.gupy.io/)                                                                                                   |
 | [Meta](https://www.meta.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/metaoficial)                                 | [Clique Aqui ➡️](https://www.linkedin.com/company/metaoficial/jobs/)                                                                                 |
@@ -57,3 +60,4 @@ Este repositório é diariamente atualizado.
 | [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                   | [Clique Aqui ➡️](https://vivo.gupy.io/)                                                                                                              |
 | [Volvo](https://www.volvocars.com/br)                         | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                    |
 | [Wipro](https://www.wipro.com/)                               | [Clique Aqui](https://www.linkedin.com/company/wipro)                                       | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7) |
+
