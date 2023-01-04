@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-02T21:18:25.954Z
+modified: 2023-01-04T00:49:17.909Z
 ---
 
 ###### README
@@ -57,6 +57,7 @@ Este repositório é diariamente atualizado.
 | [Universidade Positivo](up.edu.br)                            | [Clique Aqui](https://www.linkedin.com/school/universidadepositivo)                         | [Clique Aqui ➡️](https://up.gupy.io/)                                                                                                                |
 | [Vhsys](https://www.vhsys.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/vhsys/)                                      | [Clique Aqui ➡️](https://vhsys.gupy.io/)                                                                                                             |
 | [Viasoft ](https://viasoft.com.br)                            | [Clique Aqui](https://www.linkedin.com/company/viasoftoficial/)                             | [Clique Aqui ➡️](https://viasoft.gupy.io/)                                                                                                           |
+| [Visionnaire](www.visionnaire.com.br)                         | [Clique Aqui](https://www.linkedin.com/company/visionnaire-/)                               | [Clique Aqui ➡️](https://visionnaire.abler.com.br/)                                                                                                  |
 | [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                   | [Clique Aqui ➡️](https://vivo.gupy.io/)                                                                                                              |
 | [Volvo](https://www.volvocars.com/br)                         | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                    |
 | [Wipro](https://www.wipro.com/)                               | [Clique Aqui](https://www.linkedin.com/company/wipro)                                       | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7) |
