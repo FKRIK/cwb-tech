@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-07T01:24:15.984Z
+modified: 2023-01-08T02:00:36.120Z
 ---
 
 ###### README
@@ -21,6 +21,7 @@ Este repositório é diariamente atualizado.
 | [Bellinati Perez](https://www.bellinatiperez.com.br/)         | [Clique Aqui](https://www.linkedin.com/company/bellinati-perez/)                            | [Clique Aqui ➡️](https://jobs.kenoby.com/bellinati)                                                                                                  |
 | [BigBrain](bigbrain.com.br)                                   | [Clique Aqui](www.linkedin.com/company/bigbrain)                                            | [Clique Aqui ➡️](bigbrain.gupy.io)                                                                                                                   |
 | [Bosch](https://www.bosch.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/bosch/)                                      | [Clique Aqui ➡️](https://careers.smartrecruiters.com/BoschGroup/brazil)                                                                              |
+| [brf](brf-global.com/)                                        | [Clique Aqui](www.linkedin.com/company/brf)                                                 | [Clique Aqui ➡️](https://talents.brf.com/search/?createNewAlert=false&q=&locationsearch=Curitiba)                                                    |
 | [Bycoders](https://www.bycoders.com.br)                       | [Clique Aqui](https://www.linkedin.com/company/bycoders-tecnologia/)                        | [Clique Aqui ➡️](https://www.bycoders.com.br/careers)                                                                                                |
 | [Celepar](https://www.celepar.pr.gov.br/)                     | [Clique Aqui](https://www.linkedin.com/company/celeparcomunica/)                            | [Clique Aqui ➡️](https://www4.pr.gov.br/gee/jsp/frm_busca_vagas.jsp)                                                                                 |
 | [Chavi](https://chavi.com.br)                                 | [Clique Aqui](https://www.linkedin.com/company/chavidigital/)                               | [Clique Aqui ➡️](https://chavi.com.br/trabalhe-conosco/)                                                                                             |
