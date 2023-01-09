@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-08T02:00:36.120Z
+modified: 2023-01-09T02:01:18.320Z
 ---
 
 ###### README
@@ -49,6 +49,7 @@ Este repositório é diariamente atualizado.
 | [MPS Informática](https://www.mps.com.br/)                    | [Clique Aqui](https://www.linkedin.com/company/mps-informatica-ltda)                        | [Clique Aqui ➡️](https://www.linkedin.com/company/mps-informatica-ltda/jobs/)                                                                        |
 | [Nexcore](https://nexcore.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/nexcore-tecnologia)                          | [Clique Aqui ➡️](https://nexcore.com.br/trabalhe-conosco/)                                                                                           |
 | [Olist](https://olist.com)                                    | [Clique Aqui](https://www.linkedin.com/company/olist/)                                      | [Clique Aqui ➡️](https://olist.gupy.io/)                                                                                                             |
+| [Oowlish](www.oowlish.com)                                    | [Clique Aqui](https://www.linkedin.com/company/oowlish)                                     | [Clique Aqui ➡️](https://jobs.lever.co/oowlish)                                                                                                      |
 | [Paraná Banco](https://site.paranabanco.com.br/)              | [Clique Aqui](https://www.linkedin.com/company/paran-banco-s-a/)                            | [Clique Aqui ➡️](https://jobs.quickin.io/paranabanco/jobs)                                                                                           |
 | [Pequeno Principe](pequenoprincipe.org.br/hospital/)          | [Clique Aqui](https://www.linkedin.com/company/hospitalpequenoprincipe/)                    | [Clique Aqui ➡️](https://trabalheconosco.vagas.com.br/hpp)                                                                                           |
 | [PGMais](pgmais.com.br)                                       | [Clique Aqui](www.linkedin.com/company/pgmais/)                                             | [Clique Aqui ➡️](https://pgmais.com.br/trabalhe-conosco/)                                                                                            |
