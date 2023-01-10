@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-10T00:26:26.040Z
+modified: 2023-01-10T00:27:29.150Z
 ---
 
 ###### README
@@ -21,7 +21,7 @@ Este repositório é diariamente atualizado.
 | [Bellinati Perez](https://www.bellinatiperez.com.br/)         | [Clique Aqui](https://www.linkedin.com/company/bellinati-perez/)                            | [Clique Aqui ➡️](https://jobs.kenoby.com/bellinati)                                                                                                  |
 | [BigBrain](bigbrain.com.br)                                   | [Clique Aqui](www.linkedin.com/company/bigbrain)                                            | [Clique Aqui ➡️](bigbrain.gupy.io)                                                                                                                   |
 | [Bosch](https://www.bosch.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/bosch/)                                      | [Clique Aqui ➡️](https://careers.smartrecruiters.com/BoschGroup/brazil)                                                                              |
-| [brf](brf-global.com/)                                        | [Clique Aqui](www.linkedin.com/company/brf)                                                 | [Clique Aqui ➡️](https://talents.brf.com/search/?createNewAlert=false&q=&locationsearch=Curitiba)                                                    |
+| [Brf](brf-global.com/)                                        | [Clique Aqui](www.linkedin.com/company/brf)                                                 | [Clique Aqui ➡️](https://talents.brf.com/search/?createNewAlert=false&q=&locationsearch=Curitiba)                                                    |
 | [Bycoders](https://www.bycoders.com.br)                       | [Clique Aqui](https://www.linkedin.com/company/bycoders-tecnologia/)                        | [Clique Aqui ➡️](https://www.bycoders.com.br/careers)                                                                                                |
 | [Celepar](https://www.celepar.pr.gov.br/)                     | [Clique Aqui](https://www.linkedin.com/company/celeparcomunica/)                            | [Clique Aqui ➡️](https://www4.pr.gov.br/gee/jsp/frm_busca_vagas.jsp)                                                                                 |
 | [Chavi](https://chavi.com.br)                                 | [Clique Aqui](https://www.linkedin.com/company/chavidigital/)                               | [Clique Aqui ➡️](https://chavi.com.br/trabalhe-conosco/)                                                                                             |
@@ -31,6 +31,7 @@ Este repositório é diariamente atualizado.
 | [DigitalHub](www.digitalhub.com.br/carreiras/nossas-vagas/)   | [Clique Aqui](https://www.linkedin.com/company/digital-hub-adobe-magento-solution-partner/) | [Clique Aqui ➡️](https://www.digitalhub.com.br/trabalhe-conosco/)                                                                                    |
 | [Disys](brazil.disys.com)                                     | [Clique Aqui](www.linkedin.com/company/disys_brasil)                                        | [Clique Aqui ➡️](https://brazil.disys.com/carreiras/)                                                                                                |
 | [Ebanx](https://business.ebanx.com/pt-br/)                    | [Clique Aqui](https://www.linkedin.com/company/ebanx/)                                      | [Clique Aqui ➡️](https://boards.greenhouse.io/ebanx)                                                                                                 |
+| [Elaborata](www.elaborata.com.br)                             | [Clique Aqui](www.linkedin.com/company/elaboratatreinamentos/)                              | [Clique Aqui ➡️](https://www.elaborata.com.br/vagas)                                                                                                 |
 | [Embarca](https://www.embarca.ai/)                            | [Clique Aqui](https://www.linkedin.com/company/embarcabrasil/)                              | [Clique Aqui ➡️](https://embarca.abler.com.br/)                                                                                                      |
 | [Equiplano](https://www.equiplano.com.br/index.php)           | [Clique Aqui](https://www.linkedin.com/company/equiplano/)                                  | [Clique Aqui ➡️](https://equiplanosistemas.solides.jobs/)                                                                                            |
 | [Exati](https://exati.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/exati-tecnologia/)                           | [Clique Aqui ➡️](https://exati.solides.jobs/)                                                                                                        |
@@ -73,6 +74,5 @@ Este repositório é diariamente atualizado.
 | [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                   | [Clique Aqui ➡️](https://vivo.gupy.io/)                                                                                                              |
 | [Volvo](https://www.volvocars.com/br)                         | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                    |
 | [Wipro](https://www.wipro.com/)                               | [Clique Aqui](https://www.linkedin.com/company/wipro)                                       | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7) |
-| [Elaborata](www.elaborata.com.br)                             | [Clique Aqui](www.linkedin.com/company/elaboratatreinamentos/)                              | [Clique Aqui ➡️](https://www.elaborata.com.br/vagas)                                                                                                 |
 
 
