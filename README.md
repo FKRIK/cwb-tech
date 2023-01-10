@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-09T02:01:18.320Z
+modified: 2023-01-10T00:26:26.040Z
 ---
 
 ###### README
@@ -73,5 +73,6 @@ Este repositório é diariamente atualizado.
 | [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                   | [Clique Aqui ➡️](https://vivo.gupy.io/)                                                                                                              |
 | [Volvo](https://www.volvocars.com/br)                         | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                    |
 | [Wipro](https://www.wipro.com/)                               | [Clique Aqui](https://www.linkedin.com/company/wipro)                                       | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7) |
+| [Elaborata](www.elaborata.com.br)                             | [Clique Aqui](www.linkedin.com/company/elaboratatreinamentos/)                              | [Clique Aqui ➡️](https://www.elaborata.com.br/vagas)                                                                                                 |
 
 
