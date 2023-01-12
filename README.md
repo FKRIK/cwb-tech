@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-10T23:35:54.509Z
+modified: 2023-01-12T02:58:27.268Z
 ---
 
 ###### README
@@ -41,6 +41,7 @@ Este repositório é diariamente atualizado.
 | [Grupo Boticário](https://www.grupoboticario.com.br/)         | [Clique Aqui](https://www.linkedin.com/company/grupo-boticario/)                            | [Clique Aqui ➡️](https://grupoboticario.gupy.io/)                                                                                                    |
 | [Grupo Marista](http://www.grupomarista.org.br)               | [Clique Aqui](https://www.linkedin.com/company/grupo-marista/)                              | [Clique Aqui ➡️](https://jobs.kenoby.com/grupomarista)                                                                                               |
 | [Grupo Massa](https://grupomassa.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/grupo-massa)                                 | [Clique Aqui ➡️](https://jobs.kenoby.com/grupomassa)                                                                                                 |
+| [Grupo Regazzo](www.regazzo.com.br)                           | [Clique Aqui](www.linkedin.com/company/gruporegazzo)                                        | [Clique Aqui ➡️](www.linkedin.com/company/gruporegazzo/jobs/)                                                                                        |
 | [Grupo Services](https://gruposervices.com.br/)               | [Clique Aqui](https://www.linkedin.com/company/gruposervicesbywebhelp/)                     | [Clique Aqui ➡️](https://www.linkedin.com/company/gruposervicesbywebhelp/jobs/)                                                                      |
 | [Grupo Servopa](http://gruposervopa.com.br/)                  | [Clique Aqui](https://www.linkedin.com/company/grupo-servopa/)                              | [Clique Aqui ➡️](https://servopa.gupy.io/)                                                                                                           |
 | [Inteliger](www.inteliger.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/inteliger/)                                  | [Clique Aqui ➡️](https://www.inteliger.com.br/vagas-inteliger.html)                                                                                  |
