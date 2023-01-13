@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-12T02:58:27.268Z
+modified: 2023-01-13T01:06:18.151Z
 ---
 
 ###### README
@@ -27,6 +27,7 @@ Este repositório é diariamente atualizado.
 | [Chavi](https://chavi.com.br)                                 | [Clique Aqui](https://www.linkedin.com/company/chavidigital/)                               | [Clique Aqui ➡️](https://chavi.com.br/trabalhe-conosco/)                                                                                             |
 | [Condor](https://www.condor.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/redecondor)                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/redecondor/jobs/)                                                                                  |
 | [Contabilizei](https://www.contabilizei.com.br/)              | [Clique Aqui](https://www.linkedin.com/company/contabilizei)                                | [Clique Aqui ➡️](https://contabilizei.gupy.io/)                                                                                                      |
+| [Contraktor](contraktor.com.br)                               | [Clique Aqui](www.linkedin.com/company/contraktor)                                          | [Clique Aqui ➡️](contraktor.abler.com.br)                                                                                                            |
 | [Daju](https://www.daju.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/lojas-daju/)                                 | [Clique Aqui ➡️](https://lojasdaju.abler.com.br/)                                                                                                    |
 | [DigitalHub](www.digitalhub.com.br/carreiras/nossas-vagas/)   | [Clique Aqui](https://www.linkedin.com/company/digital-hub-adobe-magento-solution-partner/) | [Clique Aqui ➡️](https://www.digitalhub.com.br/trabalhe-conosco/)                                                                                    |
 | [Disys](brazil.disys.com)                                     | [Clique Aqui](www.linkedin.com/company/disys_brasil)                                        | [Clique Aqui ➡️](https://brazil.disys.com/carreiras/)                                                                                                |
@@ -51,6 +52,7 @@ Este repositório é diariamente atualizado.
 | [Meta](https://www.meta.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/metaoficial)                                 | [Clique Aqui ➡️](https://www.linkedin.com/company/metaoficial/jobs/)                                                                                 |
 | [MPS Informática](https://www.mps.com.br/)                    | [Clique Aqui](https://www.linkedin.com/company/mps-informatica-ltda)                        | [Clique Aqui ➡️](https://www.linkedin.com/company/mps-informatica-ltda/jobs/)                                                                        |
 | [Nexcore](https://nexcore.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/nexcore-tecnologia)                          | [Clique Aqui ➡️](https://nexcore.com.br/trabalhe-conosco/)                                                                                           |
+| [Objective](www.objective.com.br)                             | [Clique Aqui](www.linkedin.com/company/objectivebr)                                         | [Clique Aqui ➡️](www.objective.com.br/trabalhe-conosco/)                                                                                             |
 | [Olist](https://olist.com)                                    | [Clique Aqui](https://www.linkedin.com/company/olist/)                                      | [Clique Aqui ➡️](https://olist.gupy.io/)                                                                                                             |
 | [Oowlish](www.oowlish.com)                                    | [Clique Aqui](https://www.linkedin.com/company/oowlish)                                     | [Clique Aqui ➡️](https://jobs.lever.co/oowlish)                                                                                                      |
 | [Organnact](www.organnact.com.br)                             | [Clique Aqui](www.linkedin.com/company/organnact/)                                          | [Clique Aqui ➡️](https://organnact.abler.com.br/)                                                                                                    |
@@ -78,5 +80,4 @@ Este repositório é diariamente atualizado.
 | [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                   | [Clique Aqui ➡️](https://vivo.gupy.io/)                                                                                                              |
 | [Volvo](https://www.volvocars.com/br)                         | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                    |
 | [Wipro](https://www.wipro.com/)                               | [Clique Aqui](https://www.linkedin.com/company/wipro)                                       | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7) |
-
 
