@@ -2,14 +2,14 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-13T01:06:18.151Z
+modified: 2023-01-14T01:45:29.799Z
 ---
 
 ###### README
 
 ## Empresas em Curitiba que possuem setor de tecnologia
 
-Este repositório é diariamente atualizado.
+> Este repositório é diariamente atualizado.
 
 | Nome                                                          | LinkedIn                                                                                    | Vagas 🔗                                                                                                                                             |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,6 +64,7 @@ Este repositório é diariamente atualizado.
 | [Renault](https://www.renault.com.br/)                        | [Clique Aqui](https://www.linkedin.com/company/renaultgroup/)                               | [Clique Aqui ➡️](https://jobs.kenoby.com/renaultbrasil/)                                                                                             |
 | [RentCars](rentcars.com)                                      | [Clique Aqui](www.linkedin.com/company/rentcars)                                            | [Clique Aqui ➡️](https://careers.rentcars.com/#jobs)                                                                                                 |
 | [ROIT](https://roit.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/roit-ai/)                                    | [Clique Aqui ➡️](https://www.glassdoor.com.br/Vagas/ROIT-Vagas-E2492726.htm)                                                                         |
+| [RP Info Sistemas](www.rpinfo.com.br)                         | [Clique Aqui](www.linkedin.com/company/rpinfosistemas)                                      | [Clique Aqui ➡️](www.linkedin.com/company/rpinfosistemas/jobs/)                                                                                      |
 | [SaaSTec Labs](www.saastecerp.com.br)                         | [Clique Aqui](www.linkedin.com/company/saastec)                                             | [Clique Aqui ➡️](https://www.saastecerp.com.br/trabalhe-conosco/)                                                                                    |
 | [Sicredi](www.sicredi.com.br)                                 | [Clique Aqui](www.linkedin.com/company/sicredi)                                             | [Clique Aqui ➡️](https://sicredi.gupy.io/)                                                                                                           |
 | [Signo Soluções Web](https://site.signoweb.com.br/)           | [Clique Aqui](https://www.linkedin.com/company/signoweb/)                                   | [Clique Aqui ➡️](https://signoweb.abler.com.br/)                                                                                                     |
@@ -77,7 +78,7 @@ Este repositório é diariamente atualizado.
 | [Vhsys](https://www.vhsys.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/vhsys/)                                      | [Clique Aqui ➡️](https://vhsys.gupy.io/)                                                                                                             |
 | [Viasoft ](https://viasoft.com.br)                            | [Clique Aqui](https://www.linkedin.com/company/viasoftoficial/)                             | [Clique Aqui ➡️](https://viasoft.gupy.io/)                                                                                                           |
 | [Visionnaire](www.visionnaire.com.br)                         | [Clique Aqui](https://www.linkedin.com/company/visionnaire-/)                               | [Clique Aqui ➡️](https://visionnaire.abler.com.br/)                                                                                                  |
-| [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                   | [Clique Aqui ➡️](https://vivo.gupy.io/)                                                                                                              |
+| [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                   | [Clique Aqui ➡️](https://vivodigital.gupy.io/)                                                                                                       |
 | [Volvo](https://www.volvocars.com/br)                         | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                    |
 | [Wipro](https://www.wipro.com/)                               | [Clique Aqui](https://www.linkedin.com/company/wipro)                                       | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7) |
 
