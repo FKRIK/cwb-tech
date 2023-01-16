@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-15T02:05:42.734Z
+modified: 2023-01-16T00:27:40.596Z
 ---
 
 ###### README
@@ -46,6 +46,7 @@ modified: 2023-01-15T02:05:42.734Z
 | [Grupo Regazzo](www.regazzo.com.br)                           | [Clique Aqui](www.linkedin.com/company/gruporegazzo)                                        | [Clique Aqui ➡️](www.linkedin.com/company/gruporegazzo/jobs/)                                                                                                                                |
 | [Grupo Services](https://gruposervices.com.br/)               | [Clique Aqui](https://www.linkedin.com/company/gruposervicesbywebhelp/)                     | [Clique Aqui ➡️](https://www.linkedin.com/company/gruposervicesbywebhelp/jobs/)                                                                                                              |
 | [Grupo Servopa](http://gruposervopa.com.br/)                  | [Clique Aqui](https://www.linkedin.com/company/grupo-servopa/)                              | [Clique Aqui ➡️](https://servopa.gupy.io/)                                                                                                                                                   |
+| [Houseasy](http://www.houseasy.net)                           | [Clique Aqui](www.linkedin.com/company/houseasy)                                            | [Clique Aqui ➡️](https://web.houseasy.net/trabalhe-conosco)                                                                                                                                  |
 | [Inteliger](www.inteliger.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/inteliger/)                                  | [Clique Aqui ➡️](https://www.inteliger.com.br/vagas-inteliger.html)                                                                                                                          |
 | [Korp](http://www.korp.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/viasoft-korp/)                               | [Clique Aqui ➡️](https://korp.gupy.io/)                                                                                                                                                      |
 | [Landis+Gyr](www.landisgyr.com)                               | [Clique Aqui](www.linkedin.com/company/landis)                                              | [Clique Aqui ➡️](https://careers.landisgyr.com/search/?createNewAlert=false&q=&locationsearch=Curitiba&optionsFacetsDD_country=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=) |
