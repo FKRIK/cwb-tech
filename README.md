@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-16T22:57:15.008Z
+modified: 2023-01-17T23:07:15.530Z
 ---
 
 ###### README
@@ -21,6 +21,7 @@ modified: 2023-01-16T22:57:15.008Z
 | [Bellinati Perez](https://www.bellinatiperez.com.br/)         | [Clique Aqui](https://www.linkedin.com/company/bellinati-perez/)                            | [Clique Aqui ➡️](https://jobs.kenoby.com/bellinati)                                                                                                                                          |
 | [BigBrain](bigbrain.com.br)                                   | [Clique Aqui](www.linkedin.com/company/bigbrain)                                            | [Clique Aqui ➡️](bigbrain.gupy.io)                                                                                                                                                           |
 | [Bosch](https://www.bosch.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/bosch/)                                      | [Clique Aqui ➡️](https://careers.smartrecruiters.com/BoschGroup/brazil)                                                                                                                      |
+| [BrBatel](www.brbatel.com.br)                                 | [Clique Aqui](www.linkedin.com/company/br-batel)                                            | [Clique Aqui ➡️](https://brbatel.solides.jobs/)                                                                                                                                              |
 | [Brf](brf-global.com/)                                        | [Clique Aqui](www.linkedin.com/company/brf)                                                 | [Clique Aqui ➡️](https://talents.brf.com/search/?createNewAlert=false&q=&locationsearch=Curitiba)                                                                                            |
 | [Bycoders](https://www.bycoders.com.br)                       | [Clique Aqui](https://www.linkedin.com/company/bycoders-tecnologia/)                        | [Clique Aqui ➡️](https://www.bycoders.com.br/careers)                                                                                                                                        |
 | [Celepar](https://www.celepar.pr.gov.br/)                     | [Clique Aqui](https://www.linkedin.com/company/celeparcomunica/)                            | [Clique Aqui ➡️](https://www4.pr.gov.br/gee/jsp/frm_busca_vagas.jsp)                                                                                                                         |
@@ -85,5 +86,6 @@ modified: 2023-01-16T22:57:15.008Z
 | [Visionnaire](www.visionnaire.com.br)                         | [Clique Aqui](https://www.linkedin.com/company/visionnaire-/)                               | [Clique Aqui ➡️](https://visionnaire.abler.com.br/)                                                                                                                                          |
 | [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                   | [Clique Aqui ➡️](https://vivodigital.gupy.io/)                                                                                                                                               |
 | [Volvo](https://www.volvocars.com/br)                         | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                                                            |
+| [Watch Brasil](https://watchbr.com.br/)                       | [Clique Aqui](www.linkedin.com/company/watch-brasil)                                        | [Clique Aqui ➡️](https://watchbrasil.gupy.io/)                                                                                                                                               |
 | [Wipro](https://www.wipro.com/)                               | [Clique Aqui](https://www.linkedin.com/company/wipro)                                       | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7)                                         |
 
