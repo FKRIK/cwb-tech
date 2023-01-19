@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-17T23:07:15.530Z
+modified: 2023-01-19T01:56:56.343Z
 ---
 
 ###### README
@@ -59,6 +59,7 @@ modified: 2023-01-17T23:07:15.530Z
 | [MPS Informática](https://www.mps.com.br/)                    | [Clique Aqui](https://www.linkedin.com/company/mps-informatica-ltda)                        | [Clique Aqui ➡️](https://www.linkedin.com/company/mps-informatica-ltda/jobs/)                                                                                                                |
 | [Nexcore](https://nexcore.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/nexcore-tecnologia)                          | [Clique Aqui ➡️](https://nexcore.com.br/trabalhe-conosco/)                                                                                                                                   |
 | [Objective](www.objective.com.br)                             | [Clique Aqui](www.linkedin.com/company/objectivebr)                                         | [Clique Aqui ➡️](www.objective.com.br/trabalhe-conosco/)                                                                                                                                     |
+| [Obra Prima](https://obraprima.eng.br/)                       | [Clique Aqui](www.linkedin.com/company/obraprimaweb)                                        | [Clique Aqui ➡️](https://01tecnologia.abler.com.br/)                                                                                                                                         |
 | [Olist](https://olist.com)                                    | [Clique Aqui](https://www.linkedin.com/company/olist/)                                      | [Clique Aqui ➡️](https://olist.gupy.io/)                                                                                                                                                     |
 | [Oowlish](www.oowlish.com)                                    | [Clique Aqui](https://www.linkedin.com/company/oowlish)                                     | [Clique Aqui ➡️](https://jobs.lever.co/oowlish)                                                                                                                                              |
 | [Organnact](www.organnact.com.br)                             | [Clique Aqui](www.linkedin.com/company/organnact/)                                          | [Clique Aqui ➡️](https://organnact.abler.com.br/)                                                                                                                                            |
