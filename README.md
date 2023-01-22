@@ -1,17 +1,10 @@
----
-title: README
-tags: [Notebooks/Github]
-created: 2022-12-31T06:39:08.160Z
-modified: 2023-01-21T02:05:52.376Z
----
-
 ###### README
 
-## Empresas em Curitiba que possuem setor de tecnologia
+## Empresas em Curitiba que contratam no setor de tecnologia
 
-> Este repositório é diariamente atualizado.
+Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
 
-| Nome                                                          | LinkedIn                                                                                      | Vagas 🔗                                                                                                                                                                                     |
+| Nome                                                          | LinkedIn                                                                                      | Vagas                                                                                                                                                                                        |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Agres](https://agres.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/agresagricultura)                              | [Clique Aqui ➡️](https://agres.com.br/oportunidades/)                                                                                                                                        |
 | [Agrotis](https://www.agrotis.com/)                           | [Clique Aqui](https://www.linkedin.com/company/softwareagrotis/)                              | [Clique Aqui ➡️](https://agrotis.gupy.io/)                                                                                                                                                   |
@@ -57,6 +50,7 @@ modified: 2023-01-21T02:05:52.376Z
 | [Inteliger](www.inteliger.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/inteliger/)                                    | [Clique Aqui ➡️](https://www.inteliger.com.br/vagas-inteliger.html)                                                                                                                          |
 | [Korp](http://www.korp.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/viasoft-korp/)                                 | [Clique Aqui ➡️](https://korp.gupy.io/)                                                                                                                                                      |
 | [Landis+Gyr](www.landisgyr.com)                               | [Clique Aqui](www.linkedin.com/company/landis)                                                | [Clique Aqui ➡️](https://careers.landisgyr.com/search/?createNewAlert=false&q=&locationsearch=Curitiba&optionsFacetsDD_country=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=) |
+| [Leads2b](https://leads2b.com/)                               | [Clique Aqui](www.linkedin.com/company/leads2b)                                               | [Clique Aqui ➡️](leads2b.gupy.io)                                                                                                                                                            |
 | [Ligga](https://liggavc.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/liggavc)                                       | [Clique Aqui ➡️](https://liggatelecom.gupy.io/)                                                                                                                                              |
 | [MadeiraMadeira](https://www.madeiramadeira.com.br/)          | [Clique Aqui](https://www.linkedin.com/company/madeiramadeira/)                               | [Clique Aqui ➡️](https://madeiracarreira.gupy.io/)                                                                                                                                           |
 | [MedPrev](https://medprev.online/)                            | [Clique Aqui](www.linkedin.com/company/medprev/)                                              | [Clique Aqui ➡️](vagasmedprevonline.solides.jobs)                                                                                                                                            |
@@ -93,7 +87,9 @@ modified: 2023-01-21T02:05:52.376Z
 | [Visionnaire](www.visionnaire.com.br)                         | [Clique Aqui](https://www.linkedin.com/company/visionnaire-/)                                 | [Clique Aqui ➡️](https://visionnaire.abler.com.br/)                                                                                                                                          |
 | [Vivo](www.vivo.com.br)                                       | [Clique Aqui](www.linkedin.com/company/vivo-telefonicabr)                                     | [Clique Aqui ➡️](https://vivodigital.gupy.io/)                                                                                                                                               |
 | [Volvo](https://www.volvocars.com/br)                         | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                  | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                                                            |
+| [Wap](wap.ind.br)                                             | [Clique Aqui](www.linkedin.com/company/wap-fresnomaq-ind-sa/)                                 | [Clique Aqui ➡️](wap.abler.com.br)                                                                                                                                                           |
 | [Watch Brasil](https://watchbr.com.br/)                       | [Clique Aqui](www.linkedin.com/company/watch-brasil)                                          | [Clique Aqui ➡️](https://watchbrasil.gupy.io/)                                                                                                                                               |
 | [Wipro](https://www.wipro.com/)                               | [Clique Aqui](https://www.linkedin.com/company/wipro)                                         | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7)                                         |
+
 
 
