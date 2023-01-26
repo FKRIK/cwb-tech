@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2023-01-22T02:12:35.087Z
-modified: 2023-01-25T00:53:18.688Z
+modified: 2023-01-26T00:34:58.597Z
 ---
 
 ###### README
@@ -91,6 +91,7 @@ Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
 | [Sicredi](www.sicredi.com.br)                                  | [Clique Aqui](www.linkedin.com/company/sicredi)                                               | [Clique Aqui ➡️](https://sicredi.gupy.io/)                                                                                                                                                   |
 | [Signo Soluções Web](https://site.signoweb.com.br/)            | [Clique Aqui](https://www.linkedin.com/company/signoweb/)                                     | [Clique Aqui ➡️](https://signoweb.abler.com.br/)                                                                                                                                             |
 | [Sistema FIEP](https://www.sistemafiep.org.br/)                | [Clique Aqui](https://www.linkedin.com/company/sistemafiep/)                                  | [Clique Aqui ➡️](https://jobs.jobconvo.com/pt-br/careers/sistema-fiep/35ad6a0f-51a9-4b5f-b1fe-154124819dfd/)                                                                                 |
+| [Solvay](solvay.com)                                           | [Clique Aqui](linkedin.com/company/solvay)                                                    | [Clique Aqui ➡️](www.solvay.com/en/career/job-opportunities?f[0]=country%3ABrazil&f[1]=city%3ACuritiba)                                                                                      |
 | [Spacecom Monitoramento](https://www.spacecom.com.br/)         | [Clique Aqui](https://www.linkedin.com/company/spacecomm/)                                    | [Clique Aqui ➡️](https://spacecom.solides.jobs/)                                                                                                                                             |
 | [Teletex](teletex.com.br)                                      | [Clique Aqui](www.linkedin.com/company/teletex)                                               | [Clique Aqui ➡️](https://teletex.gupy.io/)                                                                                                                                                   |
 | [Thales](www.thalesgroup.com/)                                 | [Clique Aqui](www.linkedin.com/company/thales)                                                | [Clique Aqui ➡️](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?locationCountry=1a29bb1357b240ab99a2fa755cc87c0e)                                                                   |
