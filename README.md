@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2023-01-22T02:12:35.087Z
-modified: 2023-01-27T01:58:25.107Z
+modified: 2023-01-27T01:59:54.674Z
 ---
 
 ###### README
@@ -57,6 +57,7 @@ Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
 | [Grupo Services](https://gruposervices.com.br/)                | [Clique Aqui](https://www.linkedin.com/company/gruposervicesbywebhelp/)                       | [Clique Aqui ➡️](https://www.linkedin.com/company/gruposervicesbywebhelp/jobs/)                                                                                                              |
 | [Grupo Servopa](http://gruposervopa.com.br/)                   | [Clique Aqui](https://www.linkedin.com/company/grupo-servopa/)                                | [Clique Aqui ➡️](https://servopa.gupy.io/)                                                                                                                                                   |
 | [Hays](http://www.haysplc.com)                                 | [Clique Aqui](linkedin.com/company/hays)                                                      | [Clique Aqui ➡️](linkedin.com/company/hays/jobs/)                                                                                                                                            |
+| [Hilab](https://hilab.com.br/)                                 | [Clique Aqui](www.linkedin.com/company/fazumhilab)                                            | [Clique Aqui ➡️](hilab.gupy.io)                                                                                                                                                              |
 | [Houseasy](http://www.houseasy.net)                            | [Clique Aqui](www.linkedin.com/company/houseasy)                                              | [Clique Aqui ➡️](https://web.houseasy.net/trabalhe-conosco)                                                                                                                                  |
 | [Hype Empreendimentos](hypeempreendimentos.com.br)             | [Clique Aqui](www.linkedin.com/company/hypeempreendimentos)                                   | [Clique Aqui ➡️](https://sejahype.gupy.io/)                                                                                                                                                  |
 | [Hypeone](hypeone.com.br)                                      | [Clique Aqui](linkedin.com/company/hypeone)                                                   | [Clique Aqui ➡️](hypeone.com.br/anuncios/)                                                                                                                                                   |
@@ -107,7 +108,6 @@ Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
 | [Wap](wap.ind.br)                                              | [Clique Aqui](www.linkedin.com/company/wap-fresnomaq-ind-sa/)                                 | [Clique Aqui ➡️](wap.abler.com.br)                                                                                                                                                           |
 | [Watch Brasil](https://watchbr.com.br/)                        | [Clique Aqui](www.linkedin.com/company/watch-brasil)                                          | [Clique Aqui ➡️](https://watchbrasil.gupy.io/)                                                                                                                                               |
 | [Wipro](https://www.wipro.com/)                                | [Clique Aqui](https://www.linkedin.com/company/wipro)                                         | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7)                                         |
-| [Hilab](https://hilab.com.br/)                                 | [Clique Aqui](www.linkedin.com/company/fazumhilab)                                            | [Clique Aqui ➡️](hilab.gupy.io)                                                                                                                                                              |
 
 
 
