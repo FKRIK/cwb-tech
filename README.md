@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2023-01-22T02:12:35.087Z
-modified: 2023-01-28T02:27:18.264Z
+modified: 2023-01-29T02:20:21.200Z
 ---
 
 ###### README
@@ -78,6 +78,7 @@ Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
 | [Olist](https://olist.com)                                     | [Clique Aqui](https://www.linkedin.com/company/olist/)                                        | [Clique Aqui ➡️](https://olist.gupy.io/)                                                                                                                                                     |
 | [Oowlish](www.oowlish.com)                                     | [Clique Aqui](https://www.linkedin.com/company/oowlish)                                       | [Clique Aqui ➡️](https://jobs.lever.co/oowlish)                                                                                                                                              |
 | [Organnact](www.organnact.com.br)                              | [Clique Aqui](www.linkedin.com/company/organnact/)                                            | [Clique Aqui ➡️](https://organnact.abler.com.br/)                                                                                                                                            |
+| [Páprica Comunicação](https://paprica.ag)                      | [Clique Aqui](linkedin.com/company/paprica-comunicacao/)                                      | [Clique Aqui ➡️](https://materiais.paprica.ag/lp-carreiras)                                                                                                                                  |
 | [Paraná Banco](https://site.paranabanco.com.br/)               | [Clique Aqui](https://www.linkedin.com/company/paran-banco-s-a/)                              | [Clique Aqui ➡️](https://jobs.quickin.io/paranabanco/jobs)                                                                                                                                   |
 | [Pequeno Principe](pequenoprincipe.org.br/hospital/)           | [Clique Aqui](https://www.linkedin.com/company/hospitalpequenoprincipe/)                      | [Clique Aqui ➡️](https://trabalheconosco.vagas.com.br/hpp)                                                                                                                                   |
 | [PGMais](pgmais.com.br)                                        | [Clique Aqui](www.linkedin.com/company/pgmais/)                                               | [Clique Aqui ➡️](https://pgmais.com.br/trabalhe-conosco/)                                                                                                                                    |
