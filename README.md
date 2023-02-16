@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2023-01-22T02:12:35.087Z
-modified: 2023-02-16T00:10:20.926Z
+modified: 2023-02-16T19:14:44.268Z
 ---
 
 ###### README
@@ -10,10 +10,11 @@ modified: 2023-02-16T00:10:20.926Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***139.***
+##### Número de empresas listadas: ***140.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [200DEV](https://200dev.com/)                                  | [Clique Aqui](https://www.linkedin.com/company/200dev)                                                | [Clique Aqui ➡️](https://200dev.gupy.io/)                                                                                                                                                                                                                                                                         |
 | [Accenture](https://www.accenture.com/br-pt)                   | [Clique Aqui](https://www.linkedin.com/company/accenturebrasil)                                       | [Clique Aqui ➡️](https://www.accenture.com/br-pt/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1&ct=paran%C3%A1%20-%20curitiba)                                                                                                                                                                                      |
 | [Afry](http://www.afry.com)                                    | [Clique Aqui](https://www.linkedin.com/company/afgroup)                                               | [Clique Aqui ➡️](https://afry.com/en/join-us/available-jobs)                                                                                                                                                                                                                                                      |
 | [Agres](https://agres.com.br/)                                 | [Clique Aqui](https://www.linkedin.com/company/agresagricultura)                                      | [Clique Aqui ➡️](https://agres.com.br/oportunidades/)                                                                                                                                                                                                                                                             |
