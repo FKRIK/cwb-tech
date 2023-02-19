@@ -2,7 +2,7 @@
 title: README
 tags: [Notebooks/Github]
 created: 2023-01-22T02:12:35.087Z
-modified: 2023-02-18T00:18:24.983Z
+modified: 2023-02-19T02:35:10.428Z
 ---
 
 ###### README
@@ -10,7 +10,7 @@ modified: 2023-02-18T00:18:24.983Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***143.***
+##### Número de empresas listadas: ***144.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,6 +64,7 @@ Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
 | [Exati](https://exati.com.br/)                                 | [Clique Aqui](https://www.linkedin.com/company/exati-tecnologia/)                                     | [Clique Aqui ➡️](https://exati.solides.jobs/)                                                                                                                                                                                                                                                                     |
 | [Fator WoW!](http://www.fatorwow.com.br)                       | [Clique Aqui](https://www.linkedin.com/company/fatorwow)                                              | [Clique Aqui ➡️](https://fatorwow.abler.com.br/)                                                                                                                                                                                                                                                                  |
 | [Fiscaltech](https://fiscaltech.com.br/)                       | [Clique Aqui](https://www.linkedin.com/company/fiscal-tecnologia-e-automacao)                         | [Clique Aqui ➡️](https://fiscaltech.gupy.io)                                                                                                                                                                                                                                                                      |
+| [Foursys](https://www.foursys.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/foursys)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/foursys/jobs)                                                                                                                                                                                                                                                   |
 | [Gateware](https://gateware.com.br)                            | [Clique Aqui](https://www.linkedin.com/company/gatewaretech)                                          | [Clique Aqui ➡️](https://gateware.com.br/nossas-vagas/)                                                                                                                                                                                                                                                           |
 | [GeBIT](https://gebitsoftware.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/gebit)                                                 | [Clique Aqui ➡️](https://gebitsoftware.com.br/faca-parte/)                                                                                                                                                                                                                                                        |
 | [Gestran](https://gestran.com.br/)                             | [Clique Aqui](https://www.linkedin.com/company/gestran/)                                              | [Clique Aqui ➡️](https://gestran.abler.com.br/)                                                                                                                                                                                                                                                                   |
