@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-02-24T00:38:16.872Z
+modified: 2023-02-24T22:55:41.556Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-02-24T00:38:16.872Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***158.***
+##### Número de empresas listadas: ***159.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -107,6 +107,7 @@ Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
 | [Landis+Gyr](https://www.landisgyr.com/)                       | [Clique Aqui](https://www.linkedin.com/company/landis)                                                | [Clique Aqui ➡️](https://careers.landisgyr.com/search/?createNewAlert=false&q=&locationsearch=Curitiba&optionsFacetsDD_country=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=)                                                                                                                      |
 | [Lavoro Agro](http://lavoroagro.com/)                          | [Clique Aqui](https://www.linkedin.com/company/lavoroagro)                                            | [Clique Aqui ➡️](https://jobs.kenoby.com/lavoro)                                                                                                                                                                                                                                                                  |
 | [Leads2b](https://leads2b.com/)                                | [Clique Aqui](https://www.linkedin.com/company/leads2b)                                               | [Clique Aqui ➡️](https://leads2b.gupy.io)                                                                                                                                                                                                                                                                         |
+| [Leme Inteligência Forense](https://www.lemeforense.com.br/)   | [Clique Aqui](https://www.linkedin.com/company/lemeforense)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/lemeforense/jobs/)                                                                                                                                                                                                                                              |
 | [Ligga](https://liggavc.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/liggavc)                                               | [Clique Aqui ➡️](https://liggatelecom.gupy.io/)                                                                                                                                                                                                                                                                   |
 | [LW Tecnologia](https://www.lwtecnologia.com.br/)              | [Clique Aqui](https://www.linkedin.com/company/lwtecnologia)                                          | [Clique Aqui ➡️](https://lwtecnologia.solides.jobs/vacancies)                                                                                                                                                                                                                                                     |
 | [MadeiraMadeira](https://www.madeiramadeira.com.br/)           | [Clique Aqui](https://www.linkedin.com/company/madeiramadeira/)                                       | [Clique Aqui ➡️](https://madeiracarreira.gupy.io/)                                                                                                                                                                                                                                                                |
@@ -172,6 +173,5 @@ Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
 | [Wipro](https://www.wipro.com/)                                | [Clique Aqui](https://www.linkedin.com/company/wipro)                                                 | [Clique Aqui ➡️](https://careers.wipro.com/careers-home/jobs?stretchUnits=KILOMETERS&stretch=10&location=Curitiba&lat=-25.42778&lng=-49.27306&woe=7)                                                                                                                                                              |
 | [Wise Systems](https://www.wises.com.br/)                      | [Clique Aqui](https://www.linkedin.com/company/wise-systems)                                          | [Clique Aqui ➡️](https://wises.gupy.io/)                                                                                                                                                                                                                                                                          |
 | [Xcoding](https://xcoding.com.br/)                             | [Clique Aqui](https://www.linkedin.com/company/xcodingdev)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/xcodingdev/jobs/)                                                                                                                                                                                                                                               |
-
 
 
