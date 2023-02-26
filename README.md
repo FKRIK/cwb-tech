@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-02-24T22:55:41.556Z
+modified: 2023-02-26T01:25:15.794Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-02-24T22:55:41.556Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***159.***
+##### Número de empresas listadas: ***160.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -146,6 +146,7 @@ Este repositório é diariamente atualizado com, pelo menos, uma nova empresa.
 | [RP Info Sistemas](https://www.rpinfo.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/rpinfosistemas)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/rpinfosistemas/jobs/)                                                                                                                                                                                                                                           |
 | [RRS Software](http://www.rrs-software.com.br)                 | [Clique Aqui](https://www.linkedin.com/company/rrs-software-ltda-)                                    | [Clique Aqui ➡️](https://www.linkedin.com/company/rrs-software-ltda-/jobs/)                                                                                                                                                                                                                                       |
 | [SaaSTec Labs](https://www.saastecerp.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/saastec)                                               | [Clique Aqui ➡️](https://www.saastecerp.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                 |
+| [Sensorville](https://sensorville.com.br)                      | [Clique Aqui](https://www.linkedin.com/company/sensorville)                                           | [Clique Aqui ➡️](https://sensorville.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                    |
 | [Siapro Sistemas](https://www.siapro.online/)                  | [Clique Aqui](https://www.linkedin.com/company/siapro-online)                                         | [Clique Aqui ➡️](https://www.linkedin.com/company/siapro-online/jobs/)                                                                                                                                                                                                                                            |
 | [Sicredi](https://www.sicredi.com.br/home/)                    | [Clique Aqui](https://www.linkedin.com/company/sicredi)                                               | [Clique Aqui ➡️](https://sicredi.gupy.io/)                                                                                                                                                                                                                                                                        |
 | [Signo Soluções Web](https://site.signoweb.com.br/)            | [Clique Aqui](https://www.linkedin.com/company/signoweb/)                                             | [Clique Aqui ➡️](https://signoweb.abler.com.br/)                                                                                                                                                                                                                                                                  |
