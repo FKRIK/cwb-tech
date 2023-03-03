@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-01T20:11:09.427Z
+modified: 2023-03-03T00:36:01.897Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-01T20:11:09.427Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***166.***
+##### Número de empresas listadas: ***167.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,6 +115,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Leads2b](https://leads2b.com/)                                | [Clique Aqui](https://www.linkedin.com/company/leads2b)                                               | [Clique Aqui ➡️](https://leads2b.gupy.io)                                                                                                                                                                                                                                                                         |
 | [Leme Inteligência Forense](https://www.lemeforense.com.br/)   | [Clique Aqui](https://www.linkedin.com/company/lemeforense)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/lemeforense/jobs/)                                                                                                                                                                                                                                              |
 | [Ligga](https://liggavc.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/liggavc)                                               | [Clique Aqui ➡️](https://liggatelecom.gupy.io/)                                                                                                                                                                                                                                                                   |
+| [Lume Tecnologia](https://www.lumegrupo.com.br)                | [Clique Aqui](https://www.linkedin.com/company/grupolumedetecnologia)                                 | [Clique Aqui ➡️](https://www.linkedin.com/company/grupolumedetecnologia/jobs/)                                                                                                                                                                                                                                    |
 | [LW Tecnologia](https://www.lwtecnologia.com.br/)              | [Clique Aqui](https://www.linkedin.com/company/lwtecnologia)                                          | [Clique Aqui ➡️](https://lwtecnologia.solides.jobs/vacancies)                                                                                                                                                                                                                                                     |
 | [MadeiraMadeira](https://www.madeiramadeira.com.br/)           | [Clique Aqui](https://www.linkedin.com/company/madeiramadeira/)                                       | [Clique Aqui ➡️](https://madeiracarreira.gupy.io/)                                                                                                                                                                                                                                                                |
 | [Matilha Digital](https://www.matilha.digital/)                | [Clique Aqui](https://www.linkedin.com/company/matilhaestudio)                                        | [Clique Aqui ➡️](https://jobs.quickin.io/matilhadigital/jobs)                                                                                                                                                                                                                                                     |
