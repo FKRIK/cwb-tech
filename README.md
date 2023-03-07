@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-05T22:09:44.481Z
+modified: 2023-03-07T01:49:50.659Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-05T22:09:44.481Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***172.***
+##### Número de empresas listadas: ***173.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -169,6 +169,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Teletex](https://www.teletex.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/teletex)                                               | [Clique Aqui ➡️](https://teletex.gupy.io/)                                                                                                                                                                                                                                                                        |
 | [Thales](https://www.thalesgroup.com/en)                       | [Clique Aqui](https://www.linkedin.com/company/thales)                                                | [Clique Aqui ➡️](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?locationCountry=1a29bb1357b240ab99a2fa755cc87c0e)                                                                                                                                                                                        |
 | [TIVIT](http://www.tivit.com)                                  | [Clique Aqui](https://www.linkedin.com/company/tivit)                                                 | [Clique Aqui ➡️](https://jobs.kenoby.com/tivit)                                                                                                                                                                                                                                                                   |
+| [Tunts](https://tunts.rocks/)                                  | [Clique Aqui](https://www.linkedin.com/company/tuntsrocks)                                            | [Clique Aqui ➡️](https://tunts.gupy.io/)                                                                                                                                                                                                                                                                          |
 | [Uni.cloud](https://uni.cloud)                                 | [Clique Aqui](https://www.linkedin.com/company/uni-cloud)                                             | [Clique Aqui ➡️](https://www.linkedin.com/company/uni-cloud/jobs/)                                                                                                                                                                                                                                                |
 | [Unidas](https://www.unidas.com.br/)                           | [Clique Aqui](https://www.linkedin.com/company/unidas/)                                               | [Clique Aqui ➡️](https://unidas.gupy.io/)                                                                                                                                                                                                                                                                         |
 | [UniSistemas](http://www.unisistemas.com.br)                   | [Clique Aqui](https://www.linkedin.com/company/unisistemas)                                           | [Clique Aqui ➡️](https://www.unisistemas.com.br/trabalheconosco)                                                                                                                                                                                                                                                  |
