@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-08T22:08:37.133Z
+modified: 2023-03-10T01:01:55.811Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-08T22:08:37.133Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***178.***
+##### Número de empresas listadas: ***179.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -129,6 +129,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Mira Sistemas](https://www.mirasistemas.com.br)               | [Clique Aqui](https://www.linkedin.com/company/mirasistemas)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/mirasistemas/jobs)                                                                                                                                                                                                                                              |
 | [MJV Technology & Innovation](https://www.mjvinnovation.com/)  | [Clique Aqui](https://www.linkedin.com/company/mjv-tech-and-innovation)                               | [Clique Aqui ➡️](https://www.linkedin.com/company/mjv-tech-and-innovation)                                                                                                                                                                                                                                        |
 | [MPS Informática](https://www.mps.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/mps-informatica-ltda)                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/mps-informatica-ltda/jobs/)                                                                                                                                                                                                                                     |
+| [MRE3](https://mre3.com.br/)                                   | [Clique Aqui](https://www.linkedin.com/company/mre3)                                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/mre3/jobs)                                                                                                                                                                                                                                                      |
 | [Neo Tempus](https://www.neotempustemporarios.com.br)          | [Clique Aqui](https://www.linkedin.com/company/neo-tempus-trabalho-temporário)                        | [Clique Aqui ➡️](https://souneo.pandape.infojobs.com.br/?PageNumber=1&PageSize=20&Keywords=Curitiba)                                                                                                                                                                                                              |
 | [NerdWeb](https://nerdweb.com.br)                              | [Clique Aqui](https://www.linkedin.com/company/nerdweb)                                               | [Clique Aqui ➡️](https://nerdweb.com.br/trabalhe-conosco.php)                                                                                                                                                                                                                                                     |
 | [Nexcore](https://nexcore.com.br)                              | [Clique Aqui](https://www.linkedin.com/company/nexcore-tecnologia)                                    | [Clique Aqui ➡️](https://nexcore.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                        |
