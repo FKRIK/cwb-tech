@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-19T02:03:26.012Z
+modified: 2023-03-19T22:52:39.459Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-19T02:03:26.012Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***189.***
+##### Número de empresas listadas: ***190.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -155,6 +155,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Paraná Banco](https://site.paranabanco.com.br/)               | [Clique Aqui](https://www.linkedin.com/company/paran-banco-s-a/)                                      | [Clique Aqui ➡️](https://jobs.quickin.io/paranabanco/jobs)                                                                                                                                                                                                                                                        |
 | [Pequeno Principe](https://pequenoprincipe.org.br/)            | [Clique Aqui](https://www.linkedin.com/company/hospitalpequenoprincipe/)                              | [Clique Aqui ➡️](https://trabalheconosco.vagas.com.br/hpp)                                                                                                                                                                                                                                                        |
 | [PGMais](https://pgmais.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/pgmais/)                                               | [Clique Aqui ➡️](https://pgmais.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                         |
+| [Pipefy](http://www.pipefy.com)                                | [Clique Aqui](https://www.linkedin.com/company/pipefy)                                                | [Clique Aqui ➡️](https://portal.pipefy.com/engineering-pt)                                                                                                                                                                                                                                                        |
 | [PixLog](https://pixlog.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/pixlog/)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/pixlog/jobs)                                                                                                                                                                                                                                                    |
 | [Policorp](https://www.policorp.com.br)                        | [Clique Aqui](https://www.linkedin.com/company/policorp-tecnologia)                                   | [Clique Aqui ➡️](https://www.policorp.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                    |
 | [Positivo Tecnologia](https://www.positivotecnologia.com.br/)  | [Clique Aqui](https://www.linkedin.com/company/positivo-tecnologia)                                   | [Clique Aqui ➡️](https://positivotecnologia.gupy.io/)                                                                                                                                                                                                                                                             |
