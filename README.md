@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-17T01:38:46.031Z
+modified: 2023-03-19T02:03:26.012Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-17T01:38:46.031Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***188.***
+##### Número de empresas listadas: ***189.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -150,6 +150,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Oowlish](https://www.oowlish.com/)                            | [Clique Aqui](https://www.linkedin.com/company/oowlish)                                               | [Clique Aqui ➡️](https://jobs.lever.co/oowlish)                                                                                                                                                                                                                                                                   |
 | [Organnact](https://www.organnact.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/organnact/)                                            | [Clique Aqui ➡️](https://organnact.abler.com.br/)                                                                                                                                                                                                                                                                 |
 | [Oystr](http://www.oystr.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/oystr---rob%C3%B4s-inteligentes)                       | [Clique Aqui ➡️](https://oystr.solides.jobs/vacancies/)                                                                                                                                                                                                                                                           |
+| [Pantheon Inc]((https://www.pantheon-inc.com))                 | [Clique Aqui](https://www.linkedin.com/company/pantheoninc)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/pantheoninc/jobs)                                                                                                                                                                                                                                               |
 | [Páprica Comunicação](https://paprica.ag)                      | [Clique Aqui](https://www.linkedin.com/company/paprica-comunicacao/)                                  | [Clique Aqui ➡️](https://materiais.paprica.ag/lp-carreiras)                                                                                                                                                                                                                                                       |
 | [Paraná Banco](https://site.paranabanco.com.br/)               | [Clique Aqui](https://www.linkedin.com/company/paran-banco-s-a/)                                      | [Clique Aqui ➡️](https://jobs.quickin.io/paranabanco/jobs)                                                                                                                                                                                                                                                        |
 | [Pequeno Principe](https://pequenoprincipe.org.br/)            | [Clique Aqui](https://www.linkedin.com/company/hospitalpequenoprincipe/)                              | [Clique Aqui ➡️](https://trabalheconosco.vagas.com.br/hpp)                                                                                                                                                                                                                                                        |
