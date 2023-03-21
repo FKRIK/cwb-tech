@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-19T22:52:39.459Z
+modified: 2023-03-21T02:23:57.684Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-19T22:52:39.459Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***190.***
+##### Número de empresas listadas: ***191.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -132,6 +132,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Minsait](http://www.minsait.com)                              | [Clique Aqui](https://www.linkedin.com/company/minsait)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/minsait/jobs/)                                                                                                                                                                                                                                                  |
 | [Mira Sistemas](https://www.mirasistemas.com.br)               | [Clique Aqui](https://www.linkedin.com/company/mirasistemas)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/mirasistemas/jobs)                                                                                                                                                                                                                                              |
 | [MJV Technology & Innovation](https://www.mjvinnovation.com/)  | [Clique Aqui](https://www.linkedin.com/company/mjv-tech-and-innovation)                               | [Clique Aqui ➡️](https://www.linkedin.com/company/mjv-tech-and-innovation)                                                                                                                                                                                                                                        |
+| [Mobilize Financial Services](https://www.bancorci.com.br)     | [Clique Aqui](https://www.linkedin.com/company/mobilize-fs-brasil/)                                   | [Clique Aqui ➡️](https://www.linkedin.com/company/mobilize-fs-brasil/jobs)                                                                                                                                                                                                                                        |
 | [MPS Informática](https://www.mps.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/mps-informatica-ltda)                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/mps-informatica-ltda/jobs/)                                                                                                                                                                                                                                     |
 | [MRE3](https://mre3.com.br/)                                   | [Clique Aqui](https://www.linkedin.com/company/mre3)                                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/mre3/jobs)                                                                                                                                                                                                                                                      |
 | [Neo Tempus](https://www.neotempustemporarios.com.br)          | [Clique Aqui](https://www.linkedin.com/company/neo-tempus-trabalho-temporário)                        | [Clique Aqui ➡️](https://souneo.pandape.infojobs.com.br/?PageNumber=1&PageSize=20&Keywords=Curitiba)                                                                                                                                                                                                              |
