@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-21T02:23:57.684Z
+modified: 2023-03-22T02:05:13.973Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-21T02:23:57.684Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***191.***
+##### Número de empresas listadas: ***192.***
 
 | Nome                                                           | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,6 +17,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Accenture](https://www.accenture.com/br-pt)                   | [Clique Aqui](https://www.linkedin.com/company/accenturebrasil)                                       | [Clique Aqui ➡️](https://www.accenture.com/br-pt/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1&ct=paran%C3%A1%20-%20curitiba)                                                                                                                                                                                      |
 | [Afry](http://www.afry.com)                                    | [Clique Aqui](https://www.linkedin.com/company/afgroup)                                               | [Clique Aqui ➡️](https://afry.com/en/join-us/available-jobs)                                                                                                                                                                                                                                                      |
 | [Agência CGDW](http://www.cgdw.com.br)                         | [Clique Aqui](https://www.linkedin.com/company/cgdw/)                                                 | [Clique Aqui ➡️](https://cgdw.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                           |
+| [Agência Red](https://www.agencia.red/)                        | [Clique Aqui](https://www.linkedin.com/company/ag%C3%AAncia-red)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/ag%C3%AAncia-red/jobs)                                                                                                                                                                                                                                          |
 | [Agres](https://agres.com.br/)                                 | [Clique Aqui](https://www.linkedin.com/company/agresagricultura)                                      | [Clique Aqui ➡️](https://agres.com.br/oportunidades/)                                                                                                                                                                                                                                                             |
 | [Agrotis](https://www.agrotis.com/)                            | [Clique Aqui](https://www.linkedin.com/company/softwareagrotis/)                                      | [Clique Aqui ➡️](https://agrotis.gupy.io/)                                                                                                                                                                                                                                                                        |
 | [Ahoy](https://www.ahoy.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/ahoybr/)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/ahoybr/jobs/)                                                                                                                                                                                                                                                   |
