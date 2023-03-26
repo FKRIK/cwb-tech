@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-24T01:17:26.659Z
+modified: 2023-03-26T01:34:41.675Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-24T01:17:26.659Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***194.***
+##### Número de empresas listadas: ***195.***
 
 | Nome                                                             | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -110,6 +110,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [ICI](https://www.ici.curitiba.org.br/)                          | [Clique Aqui](https://www.linkedin.com/company/icicuritiba)                                           | [Clique Aqui ➡️](https://ici.gupy.io/)                                                                                                                                                                                                                                                                            |
 | [IdealSoft](http://www.idealsoft.com.br)                         | [Clique Aqui](https://www.linkedin.com/company/idealsoft)                                             | [Clique Aqui ➡️](https://www.linkedin.com/company/idealsoft/jobs/)                                                                                                                                                                                                                                                |
 | [IESDE](https://www.iesde.com.br)                                | [Clique Aqui](https://www.linkedin.com/company/iesde)                                                 | [Clique Aqui ➡️](https://www.iesde.com.br/#form)                                                                                                                                                                                                                                                                  |
+| [Inffus](http://inffus.com.br)                                   | [Clique Aqui](https://www.linkedin.com/company/inffus/)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/inffus/jobs/)                                                                                                                                                                                                                                                   |
 | [Inovando](https://www.inovan.do)                                | [Clique Aqui](https://www.linkedin.com/company/inovandosoftware/)                                     | [Clique Aqui ➡️](https://www.linkedin.com/company/inovandosoftware/jobs/)                                                                                                                                                                                                                                         |
 | [InoveIT Pro Solutions](https://www.inoveit.com/)                | [Clique Aqui](https://www.linkedin.com/company/inoveit)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/inoveit/jobs/)                                                                                                                                                                                                                                                  |
 | [Inteliger](https://www.inteliger.com.br/index.html)             | [Clique Aqui](https://www.linkedin.com/company/inteliger/)                                            | [Clique Aqui ➡️](https://www.inteliger.com.br/vagas-inteliger.html)                                                                                                                                                                                                                                               |
