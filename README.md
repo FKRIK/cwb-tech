@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-29T00:11:56.257Z
+modified: 2023-03-29T23:32:21.769Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-29T00:11:56.257Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***198.***
+##### Número de empresas listadas: ***199.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,6 +22,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Agrotis](https://www.agrotis.com/)                                   | [Clique Aqui](https://www.linkedin.com/company/softwareagrotis/)                                      | [Clique Aqui ➡️](https://agrotis.gupy.io/)                                                                                                                                                                                                                                                                        |
 | [Ahoy](https://www.ahoy.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/ahoybr/)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/ahoybr/jobs/)                                                                                                                                                                                                                                                   |
 | [AllStrategy](https://www.allstrategy.com.br/)                        | [Clique Aqui](https://www.linkedin.com/company/allstrategy)                                           | [Clique Aqui ➡️](https://allstrategy.solides.jobs/vacancies)                                                                                                                                                                                                                                                      |
+| [Almeida Krüger](http://www.almeidakruger.com.br)                     | [Clique Aqui](https://www.linkedin.com/company/almeida-kr%C3%BCger)                                   | [Clique Aqui ➡️](https://www.linkedin.com/company/almeida-kr%C3%BCger/jobs/)                                                                                                                                                                                                                                      |
 | [Alper](https://agenciaalper.com.br)                                  | [Clique Aqui](https://www.linkedin.com/company/agencia-alper/)                                        | [Clique Aqui ➡️](https://agenciaalper.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                   |
 | [Alta Rail Technology](https://alta-rt.com/)                          | [Clique Aqui](https://www.linkedin.com/company/altarailtechnology/)                                   | [Clique Aqui ➡️](https://altarailtechnology.solides.jobs/)                                                                                                                                                                                                                                                        |
 | [Andritz](https://www.andritz.com)                                    | [Clique Aqui](https://www.linkedin.com/company/andritz)                                               | [Clique Aqui ➡️](https://careers.andritz.com/search/?createNewAlert=false&q=++Curitiba&optionsFacetsDD_country=&optionsFacetsDD_location=&optionsFacetsDD_customfield1=&optionsFacetsDD_department=&optionsFacetsDD_dept=&optionsFacetsDD_shifttype=&optionsFacetsDD_customfield4=&optionsFacetsDD_customfield5=) |
