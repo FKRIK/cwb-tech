@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-28T01:22:07.244Z
+modified: 2023-03-29T00:11:56.257Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-28T01:22:07.244Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***197.***
+##### Número de empresas listadas: ***198.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -72,6 +72,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Embarca](https://www.embarca.ai/)                                    | [Clique Aqui](https://www.linkedin.com/company/embarcabrasil/)                                        | [Clique Aqui ➡️](https://embarca.abler.com.br/)                                                                                                                                                                                                                                                                   |
 | [EOX Tecnologia](https://www.eox.com.br)                              | [Clique Aqui](https://www.linkedin.com/company/eox-tecnologia)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/eox-tecnologia/jobs/)                                                                                                                                                                                                                                           |
 | [Equiplano](https://www.equiplano.com.br/index.php)                   | [Clique Aqui](https://www.linkedin.com/company/equiplano/)                                            | [Clique Aqui ➡️](https://equiplanosistemas.solides.jobs/)                                                                                                                                                                                                                                                         |
+| [Erasto Gaertner](https://erastogaertner.com.br)                      | [Clique Aqui](https://www.linkedin.com/company/hospitalerastogaertner/)                               | [Clique Aqui ➡️](https://erastogaertner.com.br/trabalheconosco)                                                                                                                                                                                                                                                   |
 | [Escriba](https://escriba.com.br)                                     | [Clique Aqui](https://www.linkedin.com/company/escriba)                                               | [Clique Aqui ➡️](https://escriba.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                        |
 | [Ewave](https://www.ewave.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/ewave-do-brasil)                                       | [Clique Aqui ➡️](https://vagasewave.gupy.io)                                                                                                                                                                                                                                                                      |
 | [Exati](https://exati.com.br/)                                        | [Clique Aqui](https://www.linkedin.com/company/exati-tecnologia/)                                     | [Clique Aqui ➡️](https://exati.solides.jobs/)                                                                                                                                                                                                                                                                     |
