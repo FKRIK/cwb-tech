@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-03-31T01:06:53.708Z
+modified: 2023-04-01T02:12:18.408Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-03-31T01:06:53.708Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***201.***
+##### Número de empresas listadas: ***202.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,6 +29,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Animus Game Studio](https://animvs.com)                              | [Clique Aqui](https://www.linkedin.com/company/animus-game-studio/)                                   | [Clique Aqui ➡️](https://animvs.com/work-with-us/)                                                                                                                                                                                                                                                                |
 | [Aprende Brasil Educação](http://sistemaaprendebrasil.com.br/)        | [Clique Aqui](https://www.linkedin.com/company/aprende-brasil)                                        | [Clique Aqui ➡️](https://aprendebrasil.gupy.io/)                                                                                                                                                                                                                                                                  |
 | [Arco Educação](https://arcoeducacao.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/arcoeducacao)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/arcoeducacao/jobs/)                                                                                                                                                                                                                                             |
+| [AT Group](https://www.atgroup.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/group-at/)                                             | [Clique Aqui ➡️](https://www.linkedin.com/company/group-at/jobs/)                                                                                                                                                                                                                                                 |
 | [Atile.digital](https://www.atile.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/atiledigital)                                          | [Clique Aqui ➡️](https://www.atile.com.br/trabalhe_conosco)                                                                                                                                                                                                                                                       |
 | [Autoconf](https://autoconf.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/autoconf)                                              | [Clique Aqui ➡️](https://www.linkedin.com/company/autoconf/jobs/)                                                                                                                                                                                                                                                 |
 | [Banco Bari](https://bancobari.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/bancobari/)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/bancobari/jobs/)                                                                                                                                                                                                                                                |
