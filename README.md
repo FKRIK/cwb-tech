@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-01T02:12:18.408Z
+modified: 2023-04-02T01:46:37.356Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-01T02:12:18.408Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***202.***
+##### Número de empresas listadas: ***203.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,6 +35,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Banco Bari](https://bancobari.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/bancobari/)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/bancobari/jobs/)                                                                                                                                                                                                                                                |
 | [BBM Logística](https://www.bbmlogistica.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/bbm-log%C3%ADstica-s.a/)                               | [Clique Aqui ➡️](https://jobs.kenoby.com/bbmlogistica)                                                                                                                                                                                                                                                            |
 | [Bellinati Perez](https://www.bellinatiperez.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/bellinati-perez/)                                      | [Clique Aqui ➡️](https://jobs.kenoby.com/bellinati)                                                                                                                                                                                                                                                               |
+| [Betabit Dev](https://betabit.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/betabit-dev/)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/betabit-dev/jobs/)                                                                                                                                                                                                                                              |
 | [BigBrain](https://bigbrain.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/bigbrain)                                              | [Clique Aqui ➡️](https://bigbrain.gupy.io)                                                                                                                                                                                                                                                                        |
 | [Bnyou](https://www.bnyou.art)                                        | [Clique Aqui](https://www.linkedin.com/company/bnyou-art/)                                            | [Clique Aqui ➡️](https://www.bnyou.art/carreiras/)                                                                                                                                                                                                                                                                |
 | [Bosch](https://www.bosch.com.br)                                     | [Clique Aqui](https://www.linkedin.com/company/bosch/)                                                | [Clique Aqui ➡️](https://careers.smartrecruiters.com/BoschGroup/brazil)                                                                                                                                                                                                                                           |
