@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-03T00:20:39.445Z
+modified: 2023-04-04T00:32:44.818Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-03T00:20:39.445Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***205.***
+##### Número de empresas listadas: ***206.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -195,6 +195,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Solvay](https://www.solvay.com/en/)                                  | [Clique Aqui](https://www.linkedin.com/company/solvay)                                                | [Clique Aqui ➡️](https://www.solvay.com/en/career/job-opportunities?f[0]=country%3ABrazil&f[1]=city%3ACuritiba)                                                                                                                                                                                                   |
 | [Spacecom Monitoramento](https://www.spacecom.com.br/)                | [Clique Aqui](https://www.linkedin.com/company/spacecomm/)                                            | [Clique Aqui ➡️](https://spacecom.solides.jobs/)                                                                                                                                                                                                                                                                  |
 | [ST-One](https://st-one.io/)                                          | [Clique Aqui](https://www.linkedin.com/company/st-one-ltda)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/st-one-ltda/jobs)                                                                                                                                                                                                                                               |
+| [StartLaw](https://thestartlaw.com/)                                  | [Clique Aqui](https://www.linkedin.com/company/thestartlaw/)                                          | [Clique Aqui ➡️](https://thestartlaw.com/carreiras/)                                                                                                                                                                                                                                                              |
 | [Stefanini](https://stefanini.com/pt-br)                              | [Clique Aqui](https://www.linkedin.com/company/stefanini-brasil/)                                     | [Clique Aqui ➡️](https://jobs.kenoby.com/vagasstefanini)                                                                                                                                                                                                                                                          |
 | [Teletex](https://www.teletex.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/teletex)                                               | [Clique Aqui ➡️](https://teletex.gupy.io/)                                                                                                                                                                                                                                                                        |
 | [Thales](https://www.thalesgroup.com/en)                              | [Clique Aqui](https://www.linkedin.com/company/thales)                                                | [Clique Aqui ➡️](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?locationCountry=1a29bb1357b240ab99a2fa755cc87c0e)                                                                                                                                                                                        |
