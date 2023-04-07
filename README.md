@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-05T23:36:59.505Z
+modified: 2023-04-07T01:48:15.910Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-05T23:36:59.505Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***207.***
+##### Número de empresas listadas: ***208.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -172,6 +172,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [PixLog](https://pixlog.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/pixlog/)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/pixlog/jobs)                                                                                                                                                                                                                                                    |
 | [Policorp](https://www.policorp.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/policorp-tecnologia)                                   | [Clique Aqui ➡️](https://www.policorp.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                    |
 | [Positivo Tecnologia](https://www.positivotecnologia.com.br/)         | [Clique Aqui](https://www.linkedin.com/company/positivo-tecnologia)                                   | [Clique Aqui ➡️](https://positivotecnologia.gupy.io/)                                                                                                                                                                                                                                                             |
+| [Printer do Brasil](https://printerdobrasil.com.br)                   | [Clique Aqui](https://www.linkedin.com/company/printer-do-brasil)                                     | [Clique Aqui ➡️](https://www.linkedin.com/company/printer-do-brasil/jobs)                                                                                                                                                                                                                                         |
 | [Pro Franchising](https://profranchising.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/pro-franchising)                                       | [Clique Aqui ➡️](https://profranchising.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                  |
 | [Progressiva Proteção Veicular](https://www.aprogressiva.com.br)      | [Clique Aqui](https://www.linkedin.com/company/progressivaprotecaoveicular)                           | [Clique Aqui ➡️](https://www.linkedin.com/company/progressivaprotecaoveicular/jobs/)                                                                                                                                                                                                                              |
 | [Proxys Group](https://www.proxysgroup.com/)                          | [Clique Aqui](https://www.linkedin.com/company/grupoproxys/)                                          | [Clique Aqui ➡️](https://proxysgroup.abler.com.br/)                                                                                                                                                                                                                                                               |
