@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-08T01:43:36.302Z
+modified: 2023-04-10T21:20:07.244Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-08T01:43:36.302Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***209.***
+##### Número de empresas listadas: ***210.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -160,6 +160,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Objective](https://www.objective.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/objectivebr)                                           | [Clique Aqui ➡️](https://www.objective.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                  |
 | [Obra Prima](https://obraprima.eng.br/)                               | [Clique Aqui](https://www.linkedin.com/company/obraprimaweb)                                          | [Clique Aqui ➡️](https://01tecnologia.abler.com.br/)                                                                                                                                                                                                                                                              |
 | [Olist](https://olist.com)                                            | [Clique Aqui](https://www.linkedin.com/company/olist/)                                                | [Clique Aqui ➡️](https://olist.gupy.io/)                                                                                                                                                                                                                                                                          |
+| [OmniChat](https://omni.chat)                                         | [Clique Aqui](https://www.linkedin.com/company/omnichat/)                                             | [Clique Aqui ➡️](https://app.pipefy.com/portals/vagas-omnichat)                                                                                                                                                                                                                                                   |
 | [Oowlish](https://www.oowlish.com/)                                   | [Clique Aqui](https://www.linkedin.com/company/oowlish)                                               | [Clique Aqui ➡️](https://jobs.lever.co/oowlish)                                                                                                                                                                                                                                                                   |
 | [Organnact](https://www.organnact.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/organnact/)                                            | [Clique Aqui ➡️](https://organnact.abler.com.br/)                                                                                                                                                                                                                                                                 |
 | [Oystr](http://www.oystr.com.br/)                                     | [Clique Aqui](https://www.linkedin.com/company/oystr---rob%C3%B4s-inteligentes)                       | [Clique Aqui ➡️](https://oystr.solides.jobs/vacancies/)                                                                                                                                                                                                                                                           |
