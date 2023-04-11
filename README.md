@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-10T21:20:07.244Z
+modified: 2023-04-11T23:21:01.911Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-10T21:20:07.244Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***210.***
+##### Número de empresas listadas: ***211.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,6 +82,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Executiva Outsourcing](https://www.executiva.com.br/)                | [Clique Aqui](https://www.linkedin.com/company/executiva-outsourcing/)                                | [Clique Aqui ➡️](https://www.linkedin.com/company/executiva-outsourcing/jobs/)                                                                                                                                                                                                                                    |
 | [Fagundez Distribuição](http://www.fagundez.com)                      | [Clique Aqui](https://www.linkedin.com/company/fagundez)                                              | [Clique Aqui ➡️](https://fagundez.solides.jobs/)                                                                                                                                                                                                                                                                  |
 | [Fator WoW!](http://www.fatorwow.com.br)                              | [Clique Aqui](https://www.linkedin.com/company/fatorwow)                                              | [Clique Aqui ➡️](https://fatorwow.abler.com.br/)                                                                                                                                                                                                                                                                  |
+| [Finanblue](http://www.finanblue.com.vc)                              | [Clique Aqui](https://www.linkedin.com/company/finanblue)                                             | [Clique Aqui ➡️](https://www.linkedin.com/company/finanblue/jobs)                                                                                                                                                                                                                                                 |
 | [Fiscaltech](https://fiscaltech.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/fiscal-tecnologia-e-automacao)                         | [Clique Aqui ➡️](https://fiscaltech.gupy.io)                                                                                                                                                                                                                                                                      |
 | [Focus NFe](https://focusnfe.com.br/)                                 | [Clique Aqui](https://www.linkedin.com/company/focus-nfe)                                             | [Clique Aqui ➡️](https://www.linkedin.com/company/focus-nfe/jobs/)                                                                                                                                                                                                                                                |
 | [Foursys](https://www.foursys.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/foursys)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/foursys/jobs)                                                                                                                                                                                                                                                   |
