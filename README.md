@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-11T23:21:01.911Z
+modified: 2023-04-14T02:26:50.846Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-11T23:21:01.911Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***211.***
+##### Número de empresas listadas: ***212.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -170,6 +170,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Paraná Banco](https://site.paranabanco.com.br/)                      | [Clique Aqui](https://www.linkedin.com/company/paran-banco-s-a/)                                      | [Clique Aqui ➡️](https://jobs.quickin.io/paranabanco/jobs)                                                                                                                                                                                                                                                        |
 | [Pasquali Solution](https://www.pasqualisolution.com.br)              | [Clique Aqui](https://www.linkedin.com/company/pasquali-solution-tech/)                               | [Clique Aqui ➡️](https://www.pasqualisolution.com.br/vagas)                                                                                                                                                                                                                                                       |
 | [Pequeno Principe](https://pequenoprincipe.org.br/)                   | [Clique Aqui](https://www.linkedin.com/company/hospitalpequenoprincipe/)                              | [Clique Aqui ➡️](https://trabalheconosco.vagas.com.br/hpp)                                                                                                                                                                                                                                                        |
+| [Perkons](https://www.perkons.com/)                                   | [Clique Aqui](https://www.linkedin.com/company/perkons-sa/)                                           | [Clique Aqui ➡️](https://perkonssa.solides.jobs/vacancies)                                                                                                                                                                                                                                                        |
 | [PGMais](https://pgmais.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/pgmais/)                                               | [Clique Aqui ➡️](https://pgmais.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                         |
 | [Pipefy](http://www.pipefy.com)                                       | [Clique Aqui](https://www.linkedin.com/company/pipefy)                                                | [Clique Aqui ➡️](https://portal.pipefy.com/engineering-pt)                                                                                                                                                                                                                                                        |
 | [PixLog](https://pixlog.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/pixlog/)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/pixlog/jobs)                                                                                                                                                                                                                                                    |
