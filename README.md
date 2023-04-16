@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-15T02:21:35.474Z
+modified: 2023-04-16T00:26:21.597Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-15T02:21:35.474Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***213.***
+##### Número de empresas listadas: ***214.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -195,6 +195,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Sensorville](https://sensorville.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/sensorville)                                           | [Clique Aqui ➡️](https://sensorville.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                    |
 | [Siapro Sistemas](https://www.siapro.online/)                         | [Clique Aqui](https://www.linkedin.com/company/siapro-online)                                         | [Clique Aqui ➡️](https://www.linkedin.com/company/siapro-online/jobs/)                                                                                                                                                                                                                                            |
 | [Sicredi](https://www.sicredi.com.br/home/)                           | [Clique Aqui](https://www.linkedin.com/company/sicredi)                                               | [Clique Aqui ➡️](https://sicredi.gupy.io/)                                                                                                                                                                                                                                                                        |
+| [Siemens](http://www.siemens.com)                                     | [Clique Aqui](https://www.linkedin.com/company/siemens/)                                              | [Clique Aqui ➡️](https://jobs.siemens.com/careers?location=Curitiba&pid=563156115531842&domain=siemens.com&sort_by=relevance&triggerGoButton=true)                                                                                                                                                                |
 | [Signo Soluções Web](https://site.signoweb.com.br/)                   | [Clique Aqui](https://www.linkedin.com/company/signoweb/)                                             | [Clique Aqui ➡️](https://signoweb.abler.com.br/)                                                                                                                                                                                                                                                                  |
 | [Sistema FIEP](https://www.sistemafiep.org.br/)                       | [Clique Aqui](https://www.linkedin.com/company/sistemafiep/)                                          | [Clique Aqui ➡️](https://jobs.jobconvo.com/pt-br/careers/sistema-fiep/35ad6a0f-51a9-4b5f-b1fe-154124819dfd/)                                                                                                                                                                                                      |
 | [Softwall](https://www.softwall.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/softwall)                                              | [Clique Aqui ➡️](https://www.linkedin.com/company/softwall/jobs)                                                                                                                                                                                                                                                  |
