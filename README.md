@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-18T02:25:04.582Z
+modified: 2023-04-18T18:57:58.145Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-18T02:25:04.582Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***215.***
+##### Número de empresas listadas: ***216.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,6 +125,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [InoveIT Pro Solutions](https://www.inoveit.com/)                     | [Clique Aqui](https://www.linkedin.com/company/inoveit)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/inoveit/jobs/)                                                                                                                                                                                                                                                  |
 | [Inteliger](https://www.inteliger.com.br/index.html)                  | [Clique Aqui](https://www.linkedin.com/company/inteliger/)                                            | [Clique Aqui ➡️](https://www.inteliger.com.br/vagas-inteliger.html)                                                                                                                                                                                                                                               |
 | [JallCard](https://www.jallcard.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/jallcard)                                              | [Clique Aqui ➡️](https://www.jallcard.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                    |
+| [James Delivery](http://www.jamesdelivery.com.br)                     | [Clique Aqui](https://www.linkedin.com/company/james-delivery)                                        | [Clique Aqui ➡️](https://jamesdeliverygpa.gupy.io/)                                                                                                                                                                                                                                                               |
 | [Join Tecnologia e Design](https://jointecnologia.com.br/)            | [Clique Aqui](https://www.linkedin.com/company/join-ti)                                               | [Clique Aqui ➡️](https://jointecnologia.gupy.io/)                                                                                                                                                                                                                                                                 |
 | [Klupp](https://klupp.com.br)                                         | [Clique Aqui](https://www.linkedin.com/company/klupp-software)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/klupp-software/jobs/)                                                                                                                                                                                                                                           |
 | [Korbantech](https://www.korbantech.com.br)                           | [Clique Aqui](https://www.linkedin.com/company/korbantech)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/korbantech/jobs/)                                                                                                                                                                                                                                               |
