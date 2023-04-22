@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-21T01:13:12.209Z
+modified: 2023-04-22T01:59:59.409Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-21T01:13:12.209Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***218.***
+##### Número de empresas listadas: ***219.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -91,6 +91,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Frontall USA](http://www.frontallusa.com)                            | [Clique Aqui](https://www.linkedin.com/company/frontall-usa)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/frontall-usa/jobs)                                                                                                                                                                                                                                              |
 | [Gateware](https://gateware.com.br)                                   | [Clique Aqui](https://www.linkedin.com/company/gatewaretech)                                          | [Clique Aqui ➡️](https://gateware.com.br/nossas-vagas/)                                                                                                                                                                                                                                                           |
 | [GeBIT](https://gebitsoftware.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/gebit)                                                 | [Clique Aqui ➡️](https://gebitsoftware.com.br/faca-parte/)                                                                                                                                                                                                                                                        |
+| [Geekhunter](https://www.geekhunter.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/geekhunter-brasil/)                                    | [Clique Aqui ➡️](https://www.geekhunter.com.br/vagas)                                                                                                                                                                                                                                                             |
 | [Gestran](https://gestran.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/gestran/)                                              | [Clique Aqui ➡️](https://gestran.abler.com.br/)                                                                                                                                                                                                                                                                   |
 | [GhFly](https://ghfly.com/)                                           | [Clique Aqui](https://www.linkedin.com/company/ghfly)                                                 | [Clique Aqui ➡️](https://ghfly.gupy.io/)                                                                                                                                                                                                                                                                          |
 | [Gobrax](https://gobrax.com.br)                                       | [Clique Aqui](https://www.linkedin.com/company/gobrax)                                                | [Clique Aqui ➡️](https://www.linkedin.com/company/gobrax/jobs/)                                                                                                                                                                                                                                                   |
