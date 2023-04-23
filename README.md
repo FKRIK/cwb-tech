@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-22T01:59:59.409Z
+modified: 2023-04-23T02:48:40.025Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-22T01:59:59.409Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***219.***
+##### Número de empresas listadas: ***220.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,6 +43,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Brain IT Solutions](https://www.brainitsolutions.com.br)             | [Clique Aqui](https://www.linkedin.com/company/brain-it-solutions)                                    | [Clique Aqui ➡️](https://www.brainitsolutions.com.br/#/curriculum)                                                                                                                                                                                                                                                |
 | [BrBatel](https://www.brbatel.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/br-batel)                                              | [Clique Aqui ➡️](https://brbatel.solides.jobs/)                                                                                                                                                                                                                                                                   |
 | [Brf](https://www.brf-global.com/)                                    | [Clique Aqui](https://www.linkedin.com/company/brf)                                                   | [Clique Aqui ➡️](https://talents.brf.com/search/?createNewAlert=false&q=&locationsearch=Curitiba)                                                                                                                                                                                                                 |
+| [Britânia](https://britania.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/brit-nia-eletrodom-sticos/)                            | [Clique Aqui ➡️](https://trabalheconosco.vagas.com.br/britania/oportunidades)                                                                                                                                                                                                                                     |
 | [Bycoders](https://www.bycoders.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/bycoders-tecnologia/)                                  | [Clique Aqui ➡️](https://www.bycoders.com.br/careers)                                                                                                                                                                                                                                                             |
 | [Caderno Nacional](https://cadernonacional.com.br)                    | [Clique Aqui](https://www.linkedin.com/company/caderno-nacional)                                      | [Clique Aqui ➡️](https://cadernonacional.com.br/vagas?q=&cs=2799&a=15&tc=Curitiba%252fPR&ta=Tecnologia%2bda%2bInforma%25c3%25a7%25c3%25a3o)                                                                                                                                                                       |
 | [Cadgraph](http://www.cadgraph.com.br)                                | [Clique Aqui](https://www.linkedin.com/company/cadgraph)                                              | [Clique Aqui ➡️](https://www.linkedin.com/company/cadgraph/jobs/)                                                                                                                                                                                                                                                 |
