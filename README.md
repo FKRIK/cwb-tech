@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-24T00:22:46.204Z
+modified: 2023-04-25T00:57:41.123Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-24T00:22:46.204Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***222.***
+##### Número de empresas listadas: ***223.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,6 +51,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Cavok Aviação](https://cavokaviacao.com)                             | [Clique Aqui](https://www.linkedin.com/company/cavok-aviacao/)                                        | [Clique Aqui ➡️](https://cavokaviacao.com/trabalhe-conosco)                                                                                                                                                                                                                                                       |
 | [CEABS Serviços](https://www.ceabs.com.br/)                           | [Clique Aqui](https://www.linkedin.com/company/ceabs-servicos)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/ceabs-servicos/jobs/)                                                                                                                                                                                                                                           |
 | [Celepar](https://www.celepar.pr.gov.br/)                             | [Clique Aqui](https://www.linkedin.com/company/celeparcomunica/)                                      | [Clique Aqui ➡️](https://www4.pr.gov.br/gee/jsp/frm_busca_vagas.jsp)                                                                                                                                                                                                                                              |
+| [Celero](https://celero.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/celero-automacao-financeira/)                          | [Clique Aqui ➡️](https://www.linkedin.com/company/celero-automacao-financeira/jobs/)                                                                                                                                                                                                                              |
 | [CESAR](https://www.cesar.org.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/cesar/)                                                | [Clique Aqui ➡️](https://cesar.breezy.hr/)                                                                                                                                                                                                                                                                        |
 | [Chavi](https://chavi.com.br)                                         | [Clique Aqui](https://www.linkedin.com/company/chavidigital/)                                         | [Clique Aqui ➡️](https://chavi.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                          |
 | [Cheers](https://cheersapp.com.br/)                                   | [Clique Aqui](https://www.linkedin.com/company/cheersticket)                                          | [Clique Aqui ➡️](https://cheers.abler.com.br/)                                                                                                                                                                                                                                                                    |
