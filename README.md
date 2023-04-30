@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-04-29T02:15:29.076Z
+modified: 2023-04-30T02:12:59.346Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-04-29T02:15:29.076Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***227.***
+##### Número de empresas listadas: ***228.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -206,6 +206,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Sicredi](https://www.sicredi.com.br/home/)                           | [Clique Aqui](https://www.linkedin.com/company/sicredi)                                               | [Clique Aqui ➡️](https://sicredi.gupy.io/)                                                                                                                                                                                                                                                                        |
 | [Siemens](http://www.siemens.com)                                     | [Clique Aqui](https://www.linkedin.com/company/siemens/)                                              | [Clique Aqui ➡️](https://jobs.siemens.com/careers?location=Curitiba&pid=563156115531842&domain=siemens.com&sort_by=relevance&triggerGoButton=true)                                                                                                                                                                |
 | [Signo Soluções Web](https://site.signoweb.com.br/)                   | [Clique Aqui](https://www.linkedin.com/company/signoweb/)                                             | [Clique Aqui ➡️](https://signoweb.abler.com.br/)                                                                                                                                                                                                                                                                  |
+| [Sinqia](https://sinqia.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/sinqia/)                                               | [Clique Aqui ➡️](https://sinqia.gupy.io/)                                                                                                                                                                                                                                                                         |
 | [Sistema FIEP](https://www.sistemafiep.org.br/)                       | [Clique Aqui](https://www.linkedin.com/company/sistemafiep/)                                          | [Clique Aqui ➡️](https://jobs.jobconvo.com/pt-br/careers/sistema-fiep/35ad6a0f-51a9-4b5f-b1fe-154124819dfd/)                                                                                                                                                                                                      |
 | [Softwall](https://www.softwall.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/softwall)                                              | [Clique Aqui ➡️](https://www.linkedin.com/company/softwall/jobs)                                                                                                                                                                                                                                                  |
 | [Solvay](https://www.solvay.com/en/)                                  | [Clique Aqui](https://www.linkedin.com/company/solvay)                                                | [Clique Aqui ➡️](https://www.solvay.com/en/career/job-opportunities?f[0]=country%3ABrazil&f[1]=city%3ACuritiba)                                                                                                                                                                                                   |
