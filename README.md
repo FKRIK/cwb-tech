@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-02T01:37:46.642Z
+modified: 2023-05-03T01:17:47.608Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-02T01:37:46.642Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***230.***
+##### Número de empresas listadas: ***231.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,6 +34,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Atile.digital](https://www.atile.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/atiledigital)                                          | [Clique Aqui ➡️](https://www.atile.com.br/trabalhe_conosco)                                                                                                                                                                                                                                                       |
 | [Autoconf](https://autoconf.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/autoconf)                                              | [Clique Aqui ➡️](https://www.linkedin.com/company/autoconf/jobs/)                                                                                                                                                                                                                                                 |
 | [Banco Bari](https://bancobari.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/bancobari/)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/bancobari/jobs/)                                                                                                                                                                                                                                                |
+| [Banco Nacional de Empregos](https://www.bne.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/bneempregos/)                                          | [Clique Aqui ➡️](https://www.bne.com.br/jobs/bne-tech)                                                                                                                                                                                                                                                            |
 | [BBM Logística](https://www.bbmlogistica.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/bbm-log%C3%ADstica-s.a/)                               | [Clique Aqui ➡️](https://jobs.kenoby.com/bbmlogistica)                                                                                                                                                                                                                                                            |
 | [Bellinati Perez](https://www.bellinatiperez.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/bellinati-perez/)                                      | [Clique Aqui ➡️](https://jobs.kenoby.com/bellinati)                                                                                                                                                                                                                                                               |
 | [Betabit Dev](https://betabit.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/betabit-dev/)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/betabit-dev/jobs/)                                                                                                                                                                                                                                              |
