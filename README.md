@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-03T01:17:47.608Z
+modified: 2023-05-04T01:23:08.012Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-03T01:17:47.608Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***231.***
+##### Número de empresas listadas: ***232.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,6 +66,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Contabilizei](https://www.contabilizei.com.br/)                      | [Clique Aqui](https://www.linkedin.com/company/contabilizei)                                          | [Clique Aqui ➡️](https://contabilizei.gupy.io/)                                                                                                                                                                                                                                                                   |
 | [Contraktor](https://contraktor.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/contraktor)                                            | [Clique Aqui ➡️](https://contraktor.abler.com.br/)                                                                                                                                                                                                                                                                |
 | [Conviso](https://www.convisoappsec.com/)                             | [Clique Aqui](https://www.linkedin.com/company/convisoappsec/)                                        | [Clique Aqui ➡️](https://convisoappsec.gupy.io/)                                                                                                                                                                                                                                                                  |
+| [CredPago](https://www.credpago.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/credpago/)                                             | [Clique Aqui ➡️](https://www.credpago.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                    |
 | [CVA Consultoria](https://cvaconsultoria.com.br)                      | [Clique Aqui](https://www.linkedin.com/company/cvaconsultoria/)                                       | [Clique Aqui ➡️](https://cvaconsultoria.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                 |
 | [Daju](https://www.daju.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/lojas-daju/)                                           | [Clique Aqui ➡️](https://lojasdaju.abler.com.br/)                                                                                                                                                                                                                                                                 |
 | [Dalcatech](https://www.dalcatech.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/dalcatech-automa-o-e-desenvolvimento-de-software-ltda) | [Clique Aqui ➡️](https://www.linkedin.com/company/dalcatech-automa-o-e-desenvolvimento-de-software-ltda/jobs/)                                                                                                                                                                                                    |
