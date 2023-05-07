@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-05T23:34:42.384Z
+modified: 2023-05-07T02:02:50.717Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-05T23:34:42.384Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***237.***
+##### Número de empresas listadas: ***238.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -242,6 +242,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Visionnaire](https://www.visionnaire.com.br/)                        | [Clique Aqui](https://www.linkedin.com/company/visionnaire-/)                                         | [Clique Aqui ➡️](https://visionnaire.abler.com.br/)                                                                                                                                                                                                                                                               |
 | [Vivo](https://www.vivo.com.br)                                       | [Clique Aqui](https://www.linkedin.com/company/vivo-telefonicabr)                                     | [Clique Aqui ➡️](https://vivodigital.gupy.io/)                                                                                                                                                                                                                                                                    |
 | [VM Tecnologia](https://www.vmtecnologia.io/)                         | [Clique Aqui](https://www.linkedin.com/company/vmtecnologia-io/)                                      | [Clique Aqui ➡️](https://vmtecnologia.solides.jobs/)                                                                                                                                                                                                                                                              |
+| [Volk do Brasil](https://volkdobrasil.com.br/)                        | [Clique Aqui](https://www.linkedin.com/company/volk-do-brasil-ltda/)                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/volk-do-brasil-ltda/jobs/)                                                                                                                                                                                                                                      |
 | [Volvo](https://www.volvocars.com/br)                                 | [Clique Aqui](https://www.linkedin.com/company/volvo-group/)                                          | [Clique Aqui ➡️](https://www.volvogroup.com/br/careers/job-openings.html#page=1&countries=Brazil)                                                                                                                                                                                                                 |
 | [Wap](https://loja.wap.ind.br/)                                       | [Clique Aqui](https://www.linkedin.com/company/wap-fresnomaq-ind-sa/)                                 | [Clique Aqui ➡️](https://wap.abler.com.br/wap.abler.com.br)                                                                                                                                                                                                                                                       |
 | [Watch Brasil](https://watchbr.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/watch-brasil)                                          | [Clique Aqui ➡️](https://watchbrasil.gupy.io/)                                                                                                                                                                                                                                                                    |
