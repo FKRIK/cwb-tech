@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-10T01:54:22.685Z
+modified: 2023-05-11T01:18:15.230Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-10T01:54:22.685Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***239.***
+##### Número de empresas listadas: ***240.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -97,6 +97,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Freedom Soluções](https://www.linkedin.com/company/freedom-solucoes) | [Clique Aqui](https://www.linkedin.com/company/freedom-solucoes)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/freedom-solucoes/jobs/)                                                                                                                                                                                                                                         |
 | [Fresh Lab](https://www.freshlab.com.br)                              | [Clique Aqui](https://www.linkedin.com/company/freshlabagencia)                                       | [Clique Aqui ➡️](https://www.freshlab.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                   |
 | [Frontall USA](http://www.frontallusa.com)                            | [Clique Aqui](https://www.linkedin.com/company/frontall-usa)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/frontall-usa/jobs)                                                                                                                                                                                                                                              |
+| [Gamarra](https://gamarraoficial.com/)                                | [Clique Aqui](https://www.linkedin.com/company/gamarra-tecnologia/)                                   | [Clique Aqui ➡️](https://www.linkedin.com/company/gamarra-tecnologia/jobs/)                                                                                                                                                                                                                                       |
 | [Gateware](https://gateware.com.br)                                   | [Clique Aqui](https://www.linkedin.com/company/gatewaretech)                                          | [Clique Aqui ➡️](https://gateware.com.br/nossas-vagas/)                                                                                                                                                                                                                                                           |
 | [GeBIT](https://gebitsoftware.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/gebit)                                                 | [Clique Aqui ➡️](https://gebitsoftware.com.br/faca-parte/)                                                                                                                                                                                                                                                        |
 | [Geekhunter](https://www.geekhunter.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/geekhunter-brasil/)                                    | [Clique Aqui ➡️](https://www.geekhunter.com.br/vagas)                                                                                                                                                                                                                                                             |
