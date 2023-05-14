@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-12T01:56:11.193Z
+modified: 2023-05-14T02:41:56.243Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-12T01:56:11.193Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***242.***
+##### Número de empresas listadas: ***243.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -137,6 +137,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Inovando](https://www.inovan.do)                                     | [Clique Aqui](https://www.linkedin.com/company/inovandosoftware/)                                     | [Clique Aqui ➡️](https://www.linkedin.com/company/inovandosoftware/jobs/)                                                                                                                                                                                                                                         |
 | [InoveIT Pro Solutions](https://www.inoveit.com/)                     | [Clique Aqui](https://www.linkedin.com/company/inoveit)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/inoveit/jobs/)                                                                                                                                                                                                                                                  |
 | [Inteliger](https://www.inteliger.com.br/index.html)                  | [Clique Aqui](https://www.linkedin.com/company/inteliger/)                                            | [Clique Aqui ➡️](https://www.inteliger.com.br/vagas-inteliger.html)                                                                                                                                                                                                                                               |
+| [IntellyIT](https://intellyit.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/intellyit/)                                            | [Clique Aqui ➡️](https://intellyit.com.br/oportunidades/)                                                                                                                                                                                                                                                         |
 | [JallCard](https://www.jallcard.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/jallcard)                                              | [Clique Aqui ➡️](https://www.jallcard.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                    |
 | [James Delivery](http://www.jamesdelivery.com.br)                     | [Clique Aqui](https://www.linkedin.com/company/james-delivery)                                        | [Clique Aqui ➡️](https://jamesdeliverygpa.gupy.io/)                                                                                                                                                                                                                                                               |
 | [Join Tecnologia e Design](https://jointecnologia.com.br/)            | [Clique Aqui](https://www.linkedin.com/company/join-ti)                                               | [Clique Aqui ➡️](https://jointecnologia.gupy.io/)                                                                                                                                                                                                                                                                 |
