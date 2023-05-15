@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-14T02:41:56.243Z
+modified: 2023-05-15T01:29:32.233Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-14T02:41:56.243Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***243.***
+##### Número de empresas listadas: ***244.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -87,6 +87,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Escriba](https://escriba.com.br)                                     | [Clique Aqui](https://www.linkedin.com/company/escriba)                                               | [Clique Aqui ➡️](https://escriba.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                        |
 | [Ewave](https://www.ewave.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/ewave-do-brasil)                                       | [Clique Aqui ➡️](https://vagasewave.gupy.io)                                                                                                                                                                                                                                                                      |
 | [Exati](https://exati.com.br/)                                        | [Clique Aqui](https://www.linkedin.com/company/exati-tecnologia/)                                     | [Clique Aqui ➡️](https://exati.solides.jobs/)                                                                                                                                                                                                                                                                     |
+| [Excellent Sistemas](https://excellentsistemas.com.br/)               | [Clique Aqui](https://www.linkedin.com/company/excellent-sistemas/)                                   | [Clique Aqui ➡️](https://excellentsistemas.com.br/site/vagas-emprego/)                                                                                                                                                                                                                                            |
 | [Executiva Outsourcing](https://www.executiva.com.br/)                | [Clique Aqui](https://www.linkedin.com/company/executiva-outsourcing/)                                | [Clique Aqui ➡️](https://www.linkedin.com/company/executiva-outsourcing/jobs/)                                                                                                                                                                                                                                    |
 | [Fagundez Distribuição](http://www.fagundez.com)                      | [Clique Aqui](https://www.linkedin.com/company/fagundez)                                              | [Clique Aqui ➡️](https://fagundez.solides.jobs/)                                                                                                                                                                                                                                                                  |
 | [Fator WoW!](http://www.fatorwow.com.br)                              | [Clique Aqui](https://www.linkedin.com/company/fatorwow)                                              | [Clique Aqui ➡️](https://fatorwow.abler.com.br/)                                                                                                                                                                                                                                                                  |
