@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-15T01:29:32.233Z
+modified: 2023-05-16T01:36:55.964Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-15T01:29:32.233Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***244.***
+##### Número de empresas listadas: ***245.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -160,6 +160,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [matrixcargo](https://matrixcargo.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/matrix-cargo-logtech/)                                 | [Clique Aqui ➡️](https://matrixcargo.gupy.io/)                                                                                                                                                                                                                                                                    |
 | [MedPrev](https://medprev.online/)                                    | [Clique Aqui](https://www.linkedin.com/company/medprev/)                                              | [Clique Aqui ➡️](https://vagasmedprevonline.solides.jobs/)                                                                                                                                                                                                                                                        |
 | [MegaMidia](https://www.megamidia.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/megamidia-group/)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/megamidia-group/jobs/)                                                                                                                                                                                                                                          |
+| [Meisters Solutions](https://meisters.solutions/)                     | [Clique Aqui](https://www.linkedin.com/company/meisters-solutions/)                                   | [Clique Aqui ➡️](https://www.linkedin.com/company/meisters-solutions/jobs/)                                                                                                                                                                                                                                       |
 | [Mercado Binário](https://mercadobinario.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/mercado-bin%C3%A1rio)                                  | [Clique Aqui ➡️](https://mercadobinario.com.br/vagas-mb/)                                                                                                                                                                                                                                                         |
 | [Mercafacil](https://www.mercafacil.com/)                             | [Clique Aqui](https://www.linkedin.com/company/mercafacil/)                                           | [Clique Aqui ➡️](https://www.mercafacil.com/vagas)                                                                                                                                                                                                                                                                |
 | [Meta](https://www.meta.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/metaoficial)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/metaoficial/jobs/)                                                                                                                                                                                                                                              |
