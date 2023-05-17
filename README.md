@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-16T01:36:55.964Z
+modified: 2023-05-17T01:44:01.761Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-16T01:36:55.964Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***245.***
+##### Número de empresas listadas: ***246.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -119,6 +119,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Grupo Rodz](https://grupo.rodz.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/grupo-rodz/)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/grupo-rodz/jobs/)                                                                                                                                                                                                                                               |
 | [Grupo Services](https://gruposervices.com.br/)                       | [Clique Aqui](https://www.linkedin.com/company/gruposervicesbywebhelp/)                               | [Clique Aqui ➡️](https://www.linkedin.com/company/gruposervicesbywebhelp/jobs/)                                                                                                                                                                                                                                   |
 | [Grupo Servopa](http://gruposervopa.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/grupo-servopa/)                                        | [Clique Aqui ➡️](https://servopa.gupy.io/)                                                                                                                                                                                                                                                                        |
+| [Grupo Sipal](www.sipal.com.br)                                       | [Clique Aqui](https://www.linkedin.com/company/gruposipal/)                                           | [Clique Aqui ➡️](https://sipal.enlizt.me/)                                                                                                                                                                                                                                                                        |
 | [Grupo Zaitter](https://www.zaitter.adv.br/)                          | [Clique Aqui](https://www.linkedin.com/company/grupo-zaitter/)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/grupo-zaitter/jobs/)                                                                                                                                                                                                                                            |
 | [Hays](http://www.haysplc.com)                                        | [Clique Aqui](https://www.linkedin.com/company/hays)                                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/hays/jobs/)                                                                                                                                                                                                                                                     |
 | [HealthYou](http://www.healthyou.com.br/)                             | [Clique Aqui](https://www.linkedin.com/company/healthyoubrasil)                                       | [Clique Aqui ➡️](https://www.linkedin.com/company/healthyoubrasil/jobs/)                                                                                                                                                                                                                                          |
