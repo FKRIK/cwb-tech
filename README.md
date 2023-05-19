@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-18T01:39:39.283Z
+modified: 2023-05-19T01:32:56.401Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-18T01:39:39.283Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***246.***
+##### Número de empresas listadas: ***247.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -143,6 +143,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [IntellyIT](https://intellyit.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/intellyit/)                                            | [Clique Aqui ➡️](https://intellyit.com.br/oportunidades/)                                                                                                                                                                                                                                                         |
 | [JallCard](https://www.jallcard.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/jallcard)                                              | [Clique Aqui ➡️](https://www.jallcard.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                    |
 | [James Delivery](http://www.jamesdelivery.com.br)                     | [Clique Aqui](https://www.linkedin.com/company/james-delivery)                                        | [Clique Aqui ➡️](https://jamesdeliverygpa.gupy.io/)                                                                                                                                                                                                                                                               |
+| [JogoGlobal](https://jogoglobal.com/)                                 | [Clique Aqui](https://www.linkedin.com/company/jogoglobal/)                                           | [Clique Aqui ➡️](https://jogoglobal.com/careers/)                                                                                                                                                                                                                                                                 |
 | [Join Tecnologia e Design](https://jointecnologia.com.br/)            | [Clique Aqui](https://www.linkedin.com/company/join-ti)                                               | [Clique Aqui ➡️](https://jointecnologia.gupy.io/)                                                                                                                                                                                                                                                                 |
 | [Junto Seguros](https://www.juntoseguros.com/)                        | [Clique Aqui](https://www.linkedin.com/company/juntoseguros/)                                         | [Clique Aqui ➡️](https://juntoseguros.gupy.io/)                                                                                                                                                                                                                                                                   |
 | [Kamino](https://kamino.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/kaminolatam/)                                          | [Clique Aqui ➡️](https://kamino.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                         |
