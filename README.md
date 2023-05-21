@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-19T01:32:56.401Z
+modified: 2023-05-21T02:45:28.638Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-19T01:32:56.401Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***247.***
+##### Número de empresas listadas: ***248.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -161,6 +161,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [MadeiraMadeira](https://www.madeiramadeira.com.br/)                  | [Clique Aqui](https://www.linkedin.com/company/madeiramadeira/)                                       | [Clique Aqui ➡️](https://madeiracarreira.gupy.io/)                                                                                                                                                                                                                                                                |
 | [Matilha Digital](https://www.matilha.digital/)                       | [Clique Aqui](https://www.linkedin.com/company/matilhaestudio)                                        | [Clique Aqui ➡️](https://jobs.quickin.io/matilhadigital/jobs)                                                                                                                                                                                                                                                     |
 | [matrixcargo](https://matrixcargo.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/matrix-cargo-logtech/)                                 | [Clique Aqui ➡️](https://matrixcargo.gupy.io/)                                                                                                                                                                                                                                                                    |
+| [Medalhão Persa](http://www.medalhaopersa.com.br)                     | [Clique Aqui](https://www.linkedin.com/company/medalh%C3%A3o-persa/)                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/medalh%C3%A3o-persa/jobs/)                                                                                                                                                                                                                                      |
 | [MedPrev](https://medprev.online/)                                    | [Clique Aqui](https://www.linkedin.com/company/medprev/)                                              | [Clique Aqui ➡️](https://vagasmedprevonline.solides.jobs/)                                                                                                                                                                                                                                                        |
 | [MegaMidia](https://www.megamidia.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/megamidia-group/)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/megamidia-group/jobs/)                                                                                                                                                                                                                                          |
 | [Meisters Solutions](https://meisters.solutions/)                     | [Clique Aqui](https://www.linkedin.com/company/meisters-solutions/)                                   | [Clique Aqui ➡️](https://www.linkedin.com/company/meisters-solutions/jobs/)                                                                                                                                                                                                                                       |
