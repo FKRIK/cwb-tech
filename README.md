@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-21T02:45:28.638Z
+modified: 2023-05-22T01:10:47.954Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-21T02:45:28.638Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***248.***
+##### Número de empresas listadas: ***249.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -176,6 +176,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [MPS Informática](https://www.mps.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/mps-informatica-ltda)                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/mps-informatica-ltda/jobs/)                                                                                                                                                                                                                                     |
 | [MRE3](https://mre3.com.br/)                                          | [Clique Aqui](https://www.linkedin.com/company/mre3)                                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/mre3/jobs)                                                                                                                                                                                                                                                      |
 | [Neo Tempus](https://www.neotempustemporarios.com.br)                 | [Clique Aqui](https://www.linkedin.com/company/neo-tempus-trabalho-temporário)                        | [Clique Aqui ➡️](https://souneo.pandape.infojobs.com.br/?PageNumber=1&PageSize=20&Keywords=Curitiba)                                                                                                                                                                                                              |
+| [Neoconsig](https://www.neoconsig.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/neoconsig/)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/neoconsig/jobs)                                                                                                                                                                                                                                                 |
 | [NerdWeb](https://nerdweb.com.br)                                     | [Clique Aqui](https://www.linkedin.com/company/nerdweb)                                               | [Clique Aqui ➡️](https://nerdweb.com.br/trabalhe-conosco.php)                                                                                                                                                                                                                                                     |
 | [Nexcore](https://nexcore.com.br)                                     | [Clique Aqui](https://www.linkedin.com/company/nexcore-tecnologia)                                    | [Clique Aqui ➡️](https://nexcore.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                        |
 | [NextAge](https://www.nextage.com.br)                                 | [Clique Aqui](https://www.linkedin.com/company/nextage-agile-development)                             | [Clique Aqui ➡️](https://www.linkedin.com/company/nextage-agile-development/jobs)                                                                                                                                                                                                                                 |
