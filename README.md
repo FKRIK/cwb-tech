@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-22T01:15:40.696Z
+modified: 2023-05-23T01:35:18.587Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-22T01:15:40.696Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***249.***
+##### Número de empresas listadas: ***250.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -86,6 +86,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Equiplano](https://www.equiplano.com.br/index.php)                   | [Clique Aqui](https://www.linkedin.com/company/equiplano/)                                            | [Clique Aqui ➡️](https://equiplanosistemas.solides.jobs/)                                                                                                                                                                                                                                                         |
 | [Erasto Gaertner](https://erastogaertner.com.br)                      | [Clique Aqui](https://www.linkedin.com/company/hospitalerastogaertner/)                               | [Clique Aqui ➡️](https://erastogaertner.com.br/trabalheconosco)                                                                                                                                                                                                                                                   |
 | [Escriba](https://escriba.com.br)                                     | [Clique Aqui](https://www.linkedin.com/company/escriba)                                               | [Clique Aqui ➡️](https://escriba.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                        |
+| [Euax Consulting](https://grupoeuax.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/euax/)                                                 | [Clique Aqui ➡️](https://grupoeuax.solides.jobs/)                                                                                                                                                                                                                                                                 |
 | [Ewave](https://www.ewave.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/ewave-do-brasil)                                       | [Clique Aqui ➡️](https://vagasewave.gupy.io)                                                                                                                                                                                                                                                                      |
 | [Exati](https://exati.com.br/)                                        | [Clique Aqui](https://www.linkedin.com/company/exati-tecnologia/)                                     | [Clique Aqui ➡️](https://exati.solides.jobs/)                                                                                                                                                                                                                                                                     |
 | [Excellent Sistemas](https://excellentsistemas.com.br/)               | [Clique Aqui](https://www.linkedin.com/company/excellent-sistemas/)                                   | [Clique Aqui ➡️](https://excellentsistemas.com.br/site/vagas-emprego/)                                                                                                                                                                                                                                            |
