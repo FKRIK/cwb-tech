@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-25T01:37:10.663Z
+modified: 2023-05-26T01:23:06.664Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-25T01:37:10.663Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***253.***
+##### Número de empresas listadas: ***254.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -74,6 +74,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Daju](https://www.daju.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/lojas-daju/)                                           | [Clique Aqui ➡️](https://lojasdaju.abler.com.br/)                                                                                                                                                                                                                                                                 |
 | [Dalcatech](https://www.dalcatech.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/dalcatech-automa-o-e-desenvolvimento-de-software-ltda) | [Clique Aqui ➡️](https://www.linkedin.com/company/dalcatech-automa-o-e-desenvolvimento-de-software-ltda/jobs/)                                                                                                                                                                                                    |
 | [Dbm](https://www.dbm.com.br/contact-center/)                         | [Clique Aqui](https://www.linkedin.com/company/dbmcontactcenter)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/dbmcontactcenter/jobs/)                                                                                                                                                                                                                                         |
+| [DESTINIA](https://destinia.com/pt-br/)                               | [Clique Aqui](https://www.linkedin.com/company/destinia-brasil/)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/destinia-brasil/jobs/)                                                                                                                                                                                                                                          |
 | [DevMaker](https://www.devmaker.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/devmaker)                                              | [Clique Aqui ➡️](https://www.linkedin.com/company/devmaker/jobs/)                                                                                                                                                                                                                                                 |
 | [DigitalHub](https://www.digitalhub.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/digital-hub-adobe-magento-solution-partner/)           | [Clique Aqui ➡️](https://www.digitalhub.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                 |
 | [Disys](https://brazil.disys.com/)                                    | [Clique Aqui](https://www.linkedin.com/company/disys_brasil)                                          | [Clique Aqui ➡️](https://brazil.disys.com/carreiras/)                                                                                                                                                                                                                                                             |
