@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-30T01:37:56.437Z
+modified: 2023-05-31T01:25:42.016Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-30T01:37:56.437Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***258.***
+##### Número de empresas listadas: ***259.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,6 +27,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Almeida Krüger](http://www.almeidakruger.com.br)                     | [Clique Aqui](https://www.linkedin.com/company/almeida-kr%C3%BCger)                                   | [Clique Aqui ➡️](https://www.linkedin.com/company/almeida-kr%C3%BCger/jobs/)                                                                                                                                                                                                                                      |
 | [Alper](https://agenciaalper.com.br)                                  | [Clique Aqui](https://www.linkedin.com/company/agencia-alper/)                                        | [Clique Aqui ➡️](https://agenciaalper.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                   |
 | [Alta Rail Technology](https://alta-rt.com/)                          | [Clique Aqui](https://www.linkedin.com/company/altarailtechnology/)                                   | [Clique Aqui ➡️](https://altarailtechnology.solides.jobs/)                                                                                                                                                                                                                                                        |
+| [ANB Farma](https://www.anbfarma.com.br/)                             | [Clique Aqui](https://www.linkedin.com/company/distribuidora-de-medicamentos-anb-farma-ltda/)         | [Clique Aqui ➡️](https://www.linkedin.com/company/distribuidora-de-medicamentos-anb-farma-ltda/jobs/)                                                                                                                                                                                                             |
 | [Andritz](https://www.andritz.com)                                    | [Clique Aqui](https://www.linkedin.com/company/andritz)                                               | [Clique Aqui ➡️](https://careers.andritz.com/search/?createNewAlert=false&q=++Curitiba&optionsFacetsDD_country=&optionsFacetsDD_location=&optionsFacetsDD_customfield1=&optionsFacetsDD_department=&optionsFacetsDD_dept=&optionsFacetsDD_shifttype=&optionsFacetsDD_customfield4=&optionsFacetsDD_customfield5=) |
 | [Animus Game Studio](https://animvs.com)                              | [Clique Aqui](https://www.linkedin.com/company/animus-game-studio/)                                   | [Clique Aqui ➡️](https://animvs.com/work-with-us/)                                                                                                                                                                                                                                                                |
 | [Aprende Brasil Educação](http://sistemaaprendebrasil.com.br/)        | [Clique Aqui](https://www.linkedin.com/company/aprende-brasil)                                        | [Clique Aqui ➡️](https://aprendebrasil.gupy.io/)                                                                                                                                                                                                                                                                  |
