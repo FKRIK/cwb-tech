@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-05-31T01:25:42.016Z
+modified: 2023-06-01T01:32:01.715Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-05-31T01:25:42.016Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***259.***
+##### Número de empresas listadas: ***260.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -124,6 +124,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Grupo Marista](http://www.grupomarista.org.br)                       | [Clique Aqui](https://www.linkedin.com/company/grupo-marista/)                                        | [Clique Aqui ➡️](https://jobs.kenoby.com/grupomarista)                                                                                                                                                                                                                                                            |
 | [Grupo Massa](https://grupomassa.com.br/)                             | [Clique Aqui](https://www.linkedin.com/company/grupo-massa)                                           | [Clique Aqui ➡️](https://jobs.kenoby.com/grupomassa)                                                                                                                                                                                                                                                              |
 | [Grupo OVD](https://www.ovd.com.br/site/index.html)                   | [Clique Aqui](https://www.linkedin.com/company/grupoovd/)                                             | [Clique Aqui ➡️](https://ovd.gupy.io/)                                                                                                                                                                                                                                                                            |
+| [Grupo Potencial](http://www.potencial.net.br)                        | [Clique Aqui](https://www.linkedin.com/company/potencialoficial/)                                     | [Clique Aqui ➡️](https://www.linkedin.com/company/potencialoficial/jobs/)                                                                                                                                                                                                                                         |
 | [Grupo Regazzo](https://regazzo.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/gruporegazzo)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/gruporegazzo/jobs/)                                                                                                                                                                                                                                             |
 | [Grupo Rodz](https://grupo.rodz.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/grupo-rodz/)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/grupo-rodz/jobs/)                                                                                                                                                                                                                                               |
 | [Grupo Services](https://gruposervices.com.br/)                       | [Clique Aqui](https://www.linkedin.com/company/gruposervicesbywebhelp/)                               | [Clique Aqui ➡️](https://www.linkedin.com/company/gruposervicesbywebhelp/jobs/)                                                                                                                                                                                                                                   |
