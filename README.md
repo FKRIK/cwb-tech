@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-01T01:32:01.715Z
+modified: 2023-06-02T01:30:52.086Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-01T01:32:01.715Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***260.***
+##### Número de empresas listadas: ***261.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -150,6 +150,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [InoveIT Pro Solutions](https://www.inoveit.com/)                     | [Clique Aqui](https://www.linkedin.com/company/inoveit)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/inoveit/jobs/)                                                                                                                                                                                                                                                  |
 | [Inteliger](https://www.inteliger.com.br/index.html)                  | [Clique Aqui](https://www.linkedin.com/company/inteliger/)                                            | [Clique Aqui ➡️](https://www.inteliger.com.br/vagas-inteliger.html)                                                                                                                                                                                                                                               |
 | [IntellyIT](https://intellyit.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/intellyit/)                                            | [Clique Aqui ➡️](https://intellyit.com.br/oportunidades/)                                                                                                                                                                                                                                                         |
+| [ISOHUB](https://isohub.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/isohub/)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/isohub/jobs/)                                                                                                                                                                                                                                                   |
 | [JallCard](https://www.jallcard.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/jallcard)                                              | [Clique Aqui ➡️](https://www.jallcard.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                    |
 | [James Delivery](http://www.jamesdelivery.com.br)                     | [Clique Aqui](https://www.linkedin.com/company/james-delivery)                                        | [Clique Aqui ➡️](https://jamesdeliverygpa.gupy.io/)                                                                                                                                                                                                                                                               |
 | [JogoGlobal](https://jogoglobal.com/)                                 | [Clique Aqui](https://www.linkedin.com/company/jogoglobal/)                                           | [Clique Aqui ➡️](https://jogoglobal.com/careers/)                                                                                                                                                                                                                                                                 |
