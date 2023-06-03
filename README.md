@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-02T01:31:49.369Z
+modified: 2023-06-03T02:58:52.154Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-02T01:31:49.369Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***261.***
+##### Número de empresas listadas: ***262.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -194,6 +194,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Ninho Digital](https://ninho.digital)                                | [Clique Aqui](https://www.linkedin.com/company/ninho-digital/)                                        | [Clique Aqui ➡️](https://ninho.digital/vem-pro-ninho/)                                                                                                                                                                                                                                                            |
 | [Nivello](http://www.nivellomultinivel.com.br)                        | [Clique Aqui](https://www.linkedin.com/company/nivello-sistemas)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/nivello-sistemas/jobs/)                                                                                                                                                                                                                                         |
 | [Noorden Group](https://www.noorden.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/noorden-group')                                        | [Clique Aqui ➡️](https://jobs.quickin.io/noorden/jobs?page=1)                                                                                                                                                                                                                                                     |
+| [Nordware](https://www.nordware.io)                                   | [Clique Aqui](https://www.linkedin.com/company/nordware-io/)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/nordware-io/jobs/)                                                                                                                                                                                                                                              |
 | [Nox Automação](https://nox.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/nox-automacao)                                         | [Clique Aqui ➡️](https://www.linkedin.com/company/nox-automacao/jobs/)                                                                                                                                                                                                                                            |
 | [NVPC](https://www.nvpc.company/)                                     | [Clique Aqui](https://www.linkedin.com/company/novovarejo-com)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/novovarejo-com/jobs)                                                                                                                                                                                                                                            |
 | [NZN](https://nzn.io/)                                                | [Clique Aqui](https://www.linkedin.com/company/nzn-nozebra-network)                                   | [Clique Aqui ➡️](https://nzn.gupy.io/)                                                                                                                                                                                                                                                                            |
