@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-06T01:58:02.310Z
+modified: 2023-06-07T01:56:43.816Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-06T01:58:02.310Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***265.***
+##### Número de empresas listadas: ***266.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -193,6 +193,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Neoconsig](https://www.neoconsig.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/neoconsig/)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/neoconsig/jobs)                                                                                                                                                                                                                                                 |
 | [NerdWeb](https://nerdweb.com.br)                                     | [Clique Aqui](https://www.linkedin.com/company/nerdweb)                                               | [Clique Aqui ➡️](https://nerdweb.com.br/trabalhe-conosco.php)                                                                                                                                                                                                                                                     |
 | [Nexcore](https://nexcore.com.br)                                     | [Clique Aqui](https://www.linkedin.com/company/nexcore-tecnologia)                                    | [Clique Aqui ➡️](https://nexcore.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                        |
+| [NextAge](https://nextage.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/nextage-agile-development/)                            | [Clique Aqui ➡️](https://www.linkedin.com/company/nextage-agile-development/jobs/)                                                                                                                                                                                                                                |
 | [NextAge](https://www.nextage.com.br)                                 | [Clique Aqui](https://www.linkedin.com/company/nextage-agile-development)                             | [Clique Aqui ➡️](https://www.linkedin.com/company/nextage-agile-development/jobs)                                                                                                                                                                                                                                 |
 | [Ninho Digital](https://ninho.digital)                                | [Clique Aqui](https://www.linkedin.com/company/ninho-digital/)                                        | [Clique Aqui ➡️](https://ninho.digital/vem-pro-ninho/)                                                                                                                                                                                                                                                            |
 | [Nivello](http://www.nivellomultinivel.com.br)                        | [Clique Aqui](https://www.linkedin.com/company/nivello-sistemas)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/nivello-sistemas/jobs/)                                                                                                                                                                                                                                         |
