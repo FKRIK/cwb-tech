@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-07T01:56:43.816Z
+modified: 2023-06-09T01:46:44.649Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-07T01:56:43.816Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***266.***
+##### Número de empresas listadas: ***267.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -137,6 +137,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Hero99](https://hero99.com.br)                                       | [Clique Aqui](https://www.linkedin.com/company/hero99/)                                               | [Clique Aqui ➡️](https://hero99.com.br/jobs/)                                                                                                                                                                                                                                                                     |
 | [Hilab](https://hilab.com.br/)                                        | [Clique Aqui](https://www.linkedin.com/company/fazumhilab)                                            | [Clique Aqui ➡️](https://hilab.gupy.io)                                                                                                                                                                                                                                                                           |
 | [Houseasy](http://www.houseasy.net)                                   | [Clique Aqui](https://www.linkedin.com/company/houseasy)                                              | [Clique Aqui ➡️](https://web.houseasy.net/trabalhe-conosco)                                                                                                                                                                                                                                                       |
+| [Hugtak](https://hugtak.com/pt-br/)                                   | [Clique Aqui](https://www.linkedin.com/company/hugtak-solu%C3%A7%C3%B5es-e-sistemas/)                 | [Clique Aqui ➡️](https://www.linkedin.com/company/hugtak-solu%C3%A7%C3%B5es-e-sistemas/jobs/)                                                                                                                                                                                                                     |
 | [Humtech](http://www.humtech.com.br)                                  | [Clique Aqui](https://www.linkedin.com/company/humtech)                                               | [Clique Aqui ➡️](https://jobs.quickin.io/humtech/jobs?city=Curitiba)                                                                                                                                                                                                                                              |
 | [Hype Empreendimentos](https://hypeempreendimentos.com.br/)           | [Clique Aqui](https://www.linkedin.com/company/hypeempreendimentos)                                   | [Clique Aqui ➡️](https://sejahype.gupy.io/)                                                                                                                                                                                                                                                                       |
 | [Hypeone](https://hypeone.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/hypeone)                                               | [Clique Aqui ➡️](https://hypeone.com.br/anuncios/)                                                                                                                                                                                                                                                                |
