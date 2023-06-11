@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-09T01:46:44.649Z
+modified: 2023-06-11T02:03:53.252Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-09T01:46:44.649Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***267.***
+##### Número de empresas listadas: ***268.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,6 +30,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [ANB Farma](https://www.anbfarma.com.br/)                             | [Clique Aqui](https://www.linkedin.com/company/distribuidora-de-medicamentos-anb-farma-ltda/)         | [Clique Aqui ➡️](https://www.linkedin.com/company/distribuidora-de-medicamentos-anb-farma-ltda/jobs/)                                                                                                                                                                                                             |
 | [Andritz](https://www.andritz.com)                                    | [Clique Aqui](https://www.linkedin.com/company/andritz)                                               | [Clique Aqui ➡️](https://careers.andritz.com/search/?createNewAlert=false&q=++Curitiba&optionsFacetsDD_country=&optionsFacetsDD_location=&optionsFacetsDD_customfield1=&optionsFacetsDD_department=&optionsFacetsDD_dept=&optionsFacetsDD_shifttype=&optionsFacetsDD_customfield4=&optionsFacetsDD_customfield5=) |
 | [Animus Game Studio](https://animvs.com)                              | [Clique Aqui](https://www.linkedin.com/company/animus-game-studio/)                                   | [Clique Aqui ➡️](https://animvs.com/work-with-us/)                                                                                                                                                                                                                                                                |
+| [Anthor](https://www.anthor.com/)                                     | [Clique Aqui](https://www.linkedin.com/company/jeitoanthor/)                                          | [Clique Aqui ➡️](https://anthor.com/carreiras/)                                                                                                                                                                                                                                                                   |
 | [Aprende Brasil Educação](http://sistemaaprendebrasil.com.br/)        | [Clique Aqui](https://www.linkedin.com/company/aprende-brasil)                                        | [Clique Aqui ➡️](https://aprendebrasil.gupy.io/)                                                                                                                                                                                                                                                                  |
 | [Arco Educação](https://arcoeducacao.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/arcoeducacao)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/arcoeducacao/jobs/)                                                                                                                                                                                                                                             |
 | [Assurance IT](http://www.assuranceit.com.br)                         | [Clique Aqui](https://www.linkedin.com/company/assurance-it/)                                         | [Clique Aqui ➡️](https://www.linkedin.com/company/assurance-it/jobs/)                                                                                                                                                                                                                                             |
