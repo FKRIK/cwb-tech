@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-11T02:03:53.252Z
+modified: 2023-06-12T01:40:06.969Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-11T02:03:53.252Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***268.***
+##### Número de empresas listadas: ***269.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,6 +43,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Bellinati Perez](https://www.bellinatiperez.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/bellinati-perez/)                                      | [Clique Aqui ➡️](https://bellinatiperez.gupy.io/)                                                                                                                                                                                                                                                                 |
 | [Betabit Dev](https://betabit.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/betabit-dev/)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/betabit-dev/jobs/)                                                                                                                                                                                                                                              |
 | [BigBrain](https://bigbrain.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/bigbrain)                                              | [Clique Aqui ➡️](https://bigbrain.gupy.io)                                                                                                                                                                                                                                                                        |
+| [Bluelight Consulting](https://bluelight.co/)                         | [Clique Aqui](https://www.linkedin.com/company/bluelightco/)                                          | [Clique Aqui ➡️](https://jobs.lever.co/bluelightconsulting?location=Curitiba%2C%20Paran%C3%A1%2C%20Brazil)                                                                                                                                                                                                        |
 | [Bnyou](https://www.bnyou.art)                                        | [Clique Aqui](https://www.linkedin.com/company/bnyou-art/)                                            | [Clique Aqui ➡️](https://www.bnyou.art/carreiras/)                                                                                                                                                                                                                                                                |
 | [Bosch](https://www.bosch.com.br)                                     | [Clique Aqui](https://www.linkedin.com/company/bosch/)                                                | [Clique Aqui ➡️](https://careers.smartrecruiters.com/BoschGroup/brazil)                                                                                                                                                                                                                                           |
 | [Bradesco Seguros](http://www.bradescoseguros.com.br)                 | [Clique Aqui](https://www.linkedin.com/company/bradesco-seguros)                                      | [Clique Aqui ➡️](https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco)                                                                                                                                                                                                                                   |
