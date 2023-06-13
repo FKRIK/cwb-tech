@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-12T01:40:06.969Z
+modified: 2023-06-13T01:21:11.380Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-12T01:40:06.969Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***269.***
+##### Número de empresas listadas: ***270.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -160,6 +160,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [JogoGlobal](https://jogoglobal.com/)                                 | [Clique Aqui](https://www.linkedin.com/company/jogoglobal/)                                           | [Clique Aqui ➡️](https://jogoglobal.com/careers/)                                                                                                                                                                                                                                                                 |
 | [Join Tecnologia e Design](https://jointecnologia.com.br/)            | [Clique Aqui](https://www.linkedin.com/company/join-ti)                                               | [Clique Aqui ➡️](https://jointecnologia.gupy.io/)                                                                                                                                                                                                                                                                 |
 | [Junto Seguros](https://www.juntoseguros.com/)                        | [Clique Aqui](https://www.linkedin.com/company/juntoseguros/)                                         | [Clique Aqui ➡️](https://juntoseguros.gupy.io/)                                                                                                                                                                                                                                                                   |
+| [K8 Fintech](https://www.meuk8.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/k8fintech/)                                            | [Clique Aqui ➡️](https://k8fintech.solides.jobs)                                                                                                                                                                                                                                                                  |
 | [Kamino](https://kamino.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/kaminolatam/)                                          | [Clique Aqui ➡️](https://kamino.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                         |
 | [Klupp](https://klupp.com.br)                                         | [Clique Aqui](https://www.linkedin.com/company/klupp-software)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/klupp-software/jobs/)                                                                                                                                                                                                                                           |
 | [Korbantech](https://www.korbantech.com.br)                           | [Clique Aqui](https://www.linkedin.com/company/korbantech)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/korbantech/jobs/)                                                                                                                                                                                                                                               |
