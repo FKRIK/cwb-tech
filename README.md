@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-14T01:26:07.166Z
+modified: 2023-06-14T21:52:32.601Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-14T01:26:07.166Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***271.***
+##### Número de empresas listadas: ***272.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,6 +115,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Geekhunter](https://www.geekhunter.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/geekhunter-brasil/)                                    | [Clique Aqui ➡️](https://www.geekhunter.com.br/vagas)                                                                                                                                                                                                                                                             |
 | [Gestran](https://gestran.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/gestran/)                                              | [Clique Aqui ➡️](https://gestran.abler.com.br/)                                                                                                                                                                                                                                                                   |
 | [GhFly](https://ghfly.com/)                                           | [Clique Aqui](https://www.linkedin.com/company/ghfly)                                                 | [Clique Aqui ➡️](https://ghfly.gupy.io/)                                                                                                                                                                                                                                                                          |
+| [Giro.Tech](https://giro.tech/)                                       | [Clique Aqui](https://www.linkedin.com/company/giro-tech/)                                            | [Clique Aqui ➡️](https://girotech.gupy.io/)                                                                                                                                                                                                                                                                       |
 | [Gobrax](https://gobrax.com.br)                                       | [Clique Aqui](https://www.linkedin.com/company/gobrax)                                                | [Clique Aqui ➡️](https://www.linkedin.com/company/gobrax/jobs/)                                                                                                                                                                                                                                                   |
 | [GRPCOM](https://www.grpcom.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/grpcom)                                                | [Clique Aqui ➡️](https://grpcom.gupy.io/)                                                                                                                                                                                                                                                                         |
 | [Grupo ABL](http://www.grupoabl.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/grupo-abl)                                             | [Clique Aqui ➡️](https://grupoabl.com.br/contato/#trabalhe)                                                                                                                                                                                                                                                       |
