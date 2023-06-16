@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-14T21:52:32.601Z
+modified: 2023-06-16T01:37:34.521Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-14T21:52:32.601Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***272.***
+##### Número de empresas listadas: ***273.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -188,6 +188,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Mercado Binário](https://mercadobinario.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/mercado-bin%C3%A1rio)                                  | [Clique Aqui ➡️](https://mercadobinario.com.br/vagas-mb/)                                                                                                                                                                                                                                                         |
 | [Mercafacil](https://www.mercafacil.com/)                             | [Clique Aqui](https://www.linkedin.com/company/mercafacil/)                                           | [Clique Aqui ➡️](https://www.mercafacil.com/vagas)                                                                                                                                                                                                                                                                |
 | [Meta](https://www.meta.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/metaoficial)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/metaoficial/jobs/)                                                                                                                                                                                                                                              |
+| [Mindtech Tecnologia](http://mindtech.com.br/)                        | [Clique Aqui](https://www.linkedin.com/company/mindtech-tecnologia/)                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/mindtech-tecnologia/jobs/)                                                                                                                                                                                                                                      |
 | [Minsait](http://www.minsait.com)                                     | [Clique Aqui](https://www.linkedin.com/company/minsait)                                               | [Clique Aqui ➡️](https://www.linkedin.com/company/minsait/jobs/)                                                                                                                                                                                                                                                  |
 | [Mira Sistemas](https://www.mirasistemas.com.br)                      | [Clique Aqui](https://www.linkedin.com/company/mirasistemas)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/mirasistemas/jobs)                                                                                                                                                                                                                                              |
 | [Mirum Agency](https://www.mirumagency.com.br/)                       | [Clique Aqui](https://www.linkedin.com/company/mirum-agency/)                                         | [Clique Aqui ➡️](https://mirum.inhire.app/vagas)                                                                                                                                                                                                                                                                  |
