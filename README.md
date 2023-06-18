@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-18T02:00:56.493Z
+modified: 2023-06-18T23:11:58.652Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-18T02:00:56.493Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***274.***
+##### Número de empresas listadas: ***275.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -231,6 +231,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Preâmbulo Tech](https://preambulo.com.br)                            | [Clique Aqui](https://www.linkedin.com/company/preambulotech)                                         | [Clique Aqui ➡️](https://www.linkedin.com/company/preambulotech/jobs)                                                                                                                                                                                                                                             |
 | [Printer do Brasil](https://printerdobrasil.com.br)                   | [Clique Aqui](https://www.linkedin.com/company/printer-do-brasil)                                     | [Clique Aqui ➡️](https://www.linkedin.com/company/printer-do-brasil/jobs)                                                                                                                                                                                                                                         |
 | [Pro Franchising](https://profranchising.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/pro-franchising)                                       | [Clique Aqui ➡️](https://profranchising.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                  |
+| [Produttivo](http://www.produttivo.com.br)                            | [Clique Aqui](https://www.linkedin.com/company/produttivo/)                                           | [Clique Aqui ➡️](https://produttivo.gupy.io/)                                                                                                                                                                                                                                                                     |
 | [Progressiva Proteção Veicular](https://www.aprogressiva.com.br)      | [Clique Aqui](https://www.linkedin.com/company/progressivaprotecaoveicular)                           | [Clique Aqui ➡️](https://www.linkedin.com/company/progressivaprotecaoveicular/jobs/)                                                                                                                                                                                                                              |
 | [Proxys Group](https://www.proxysgroup.com/)                          | [Clique Aqui](https://www.linkedin.com/company/grupoproxys/)                                          | [Clique Aqui ➡️](https://proxysgroup.abler.com.br/)                                                                                                                                                                                                                                                               |
 | [Pumatronix ](https://pumatronix.com/)                                | [Clique Aqui](https://www.linkedin.com/company/pumatronixbrasil)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/pumatronixbrasil/jobs)                                                                                                                                                                                                                                          |
