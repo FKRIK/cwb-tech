@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-20T01:35:27.470Z
+modified: 2023-06-21T01:25:48.983Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-20T01:35:27.470Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***276.***
+##### Número de empresas listadas: ***277.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -173,6 +173,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Landis+Gyr](https://www.landisgyr.com/)                              | [Clique Aqui](https://www.linkedin.com/company/landis)                                                | [Clique Aqui ➡️](https://careers.landisgyr.com/search/?createNewAlert=false&q=&locationsearch=Curitiba&optionsFacetsDD_country=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=)                                                                                                                      |
 | [Lavoro Agro](http://lavoroagro.com/)                                 | [Clique Aqui](https://www.linkedin.com/company/lavoroagro)                                            | [Clique Aqui ➡️](https://jobs.kenoby.com/lavoro)                                                                                                                                                                                                                                                                  |
 | [Leads2b](https://leads2b.com/)                                       | [Clique Aqui](https://www.linkedin.com/company/leads2b)                                               | [Clique Aqui ➡️](https://leads2b.gupy.io)                                                                                                                                                                                                                                                                         |
+| [Leankeep](https://leankeep.com/)                                     | [Clique Aqui](https://www.linkedin.com/company/leankeep/)                                             | [Clique Aqui ➡️](https://www.linkedin.com/company/leankeep/jobs/)                                                                                                                                                                                                                                                 |
 | [Leme Inteligência Forense](https://www.lemeforense.com.br/)          | [Clique Aqui](https://www.linkedin.com/company/lemeforense)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/lemeforense/jobs/)                                                                                                                                                                                                                                              |
 | [Ligga](https://liggavc.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/liggavc)                                               | [Clique Aqui ➡️](https://liggatelecom.gupy.io/)                                                                                                                                                                                                                                                                   |
 | [Localiza&Co](https://www.localizaco.com/)                            | [Clique Aqui](https://www.linkedin.com/company/localizaco/)                                           | [Clique Aqui ➡️](https://portalcarreira.localiza.com/)                                                                                                                                                                                                                                                            |
