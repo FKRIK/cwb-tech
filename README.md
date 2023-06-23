@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-21T01:25:48.983Z
+modified: 2023-06-23T01:37:40.790Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-21T01:25:48.983Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***277.***
+##### Número de empresas listadas: ***278.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -237,6 +237,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Progressiva Proteção Veicular](https://www.aprogressiva.com.br)      | [Clique Aqui](https://www.linkedin.com/company/progressivaprotecaoveicular)                           | [Clique Aqui ➡️](https://www.linkedin.com/company/progressivaprotecaoveicular/jobs/)                                                                                                                                                                                                                              |
 | [Proxys Group](https://www.proxysgroup.com/)                          | [Clique Aqui](https://www.linkedin.com/company/grupoproxys/)                                          | [Clique Aqui ➡️](https://proxysgroup.abler.com.br/)                                                                                                                                                                                                                                                               |
 | [Pumatronix ](https://pumatronix.com/)                                | [Clique Aqui](https://www.linkedin.com/company/pumatronixbrasil)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/pumatronixbrasil/jobs)                                                                                                                                                                                                                                          |
+| [QuiteJá](https://quiteja.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/quiteja/)                                              | [Clique Aqui ➡️](https://www.linkedin.com/company/quiteja/jobs/)                                                                                                                                                                                                                                                  |
 | [Rede Lojacorr](https://redelojacorr.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/lojacorr-corretora-de-seguros)                         | [Clique Aqui ➡️](https://redelojacorr.gupy.io/)                                                                                                                                                                                                                                                                   |
 | [Rede Magic](https://www.redemagic.com)                               | [Clique Aqui](https://www.linkedin.com/company/redemagic)                                             | [Clique Aqui ➡️](https://www.redemagic.com/a-agencia/#trabalhe-conosco)                                                                                                                                                                                                                                           |
 | [Renault](https://www.renault.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/renaultgroup/)                                         | [Clique Aqui ➡️](https://jobs.kenoby.com/renaultbrasil/)                                                                                                                                                                                                                                                          |
