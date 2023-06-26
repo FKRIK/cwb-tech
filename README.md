@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-25T02:49:11.641Z
+modified: 2023-06-26T01:42:37.189Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-25T02:49:11.641Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***280.***
+##### Número de empresas listadas: ***281.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,6 +125,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Grupo Barigui](https://www.grupobarigui.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/grupo-barigui/)                                        | [Clique Aqui ➡️](https://grupobarigui.abler.com.br/)                                                                                                                                                                                                                                                              |
 | [Grupo Boticário](https://www.grupoboticario.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/grupo-boticario/)                                      | [Clique Aqui ➡️](https://grupoboticario.gupy.io/)                                                                                                                                                                                                                                                                 |
 | [Grupo BRT](https://grupobrt.com.br/)                                 | [Clique Aqui](https://www.linkedin.com/company/grupobrt/)                                             | [Clique Aqui ➡️](https://brtconsolidadoraeoperadoradeturismo.abler.com.br/)                                                                                                                                                                                                                                       |
+| [Grupo CPAG](https://www.grupogpac.com.br/)                           | [Clique Aqui](https://www.linkedin.com/company/grupo-g-pac-comunica%C3%A7%C3%A3o-integrada/)          | [Clique Aqui ➡️](https://www.linkedin.com/company/grupo-g-pac-comunica%C3%A7%C3%A3o-integrada/jobs/)                                                                                                                                                                                                              |
 | [Grupo Fertipar](http://www.fertipar.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/fertipar/)                                             | [Clique Aqui ➡️](https://grupofertipar.gupy.io/)                                                                                                                                                                                                                                                                  |
 | [Grupo Inlog](https://www.inlog.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/grupo-inlog)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/grupo-inlog/jobs)                                                                                                                                                                                                                                               |
 | [Grupo Madero](https://grupomadero.com.br/)                           | [Clique Aqui](https://www.linkedin.com/company/grupo-madero)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/grupo-madero/jobs/)                                                                                                                                                                                                                                             |
