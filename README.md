@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-27T01:29:10.401Z
+modified: 2023-06-27T22:36:19.477Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-27T01:29:10.401Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***282.***
+##### Número de empresas listadas: ***283.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -149,6 +149,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Humtech](http://www.humtech.com.br)                                  | [Clique Aqui](https://www.linkedin.com/company/humtech)                                               | [Clique Aqui ➡️](https://jobs.quickin.io/humtech/jobs?city=Curitiba)                                                                                                                                                                                                                                              |
 | [Hype Empreendimentos](https://hypeempreendimentos.com.br/)           | [Clique Aqui](https://www.linkedin.com/company/hypeempreendimentos)                                   | [Clique Aqui ➡️](https://sejahype.gupy.io/)                                                                                                                                                                                                                                                                       |
 | [Hypeone](https://hypeone.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/hypeone)                                               | [Clique Aqui ➡️](https://hypeone.com.br/anuncios/)                                                                                                                                                                                                                                                                |
+| [i-Cherry](https://www.i-cherry.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/i-cherry/)                                             | [Clique Aqui ➡️](https://icherry.inhire.app/vagas/)                                                                                                                                                                                                                                                               |
 | [IBM](http://www.ibm.com)                                             | [Clique Aqui](https://www.linkedin.com/company/ibm)                                                   | [Clique Aqui ➡️](https://www.linkedin.com/company/ibm/jobs/)                                                                                                                                                                                                                                                      |
 | [ICI](https://www.ici.curitiba.org.br/)                               | [Clique Aqui](https://www.linkedin.com/company/icicuritiba)                                           | [Clique Aqui ➡️](https://ici.gupy.io/)                                                                                                                                                                                                                                                                            |
 | [IdealSoft](http://www.idealsoft.com.br)                              | [Clique Aqui](https://www.linkedin.com/company/idealsoft)                                             | [Clique Aqui ➡️](https://www.linkedin.com/company/idealsoft/jobs/)                                                                                                                                                                                                                                                |
