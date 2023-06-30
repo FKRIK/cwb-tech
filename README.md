@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-06-29T01:43:21.892Z
+modified: 2023-06-30T01:11:56.844Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-06-29T01:43:21.892Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***285.***
+##### Número de empresas listadas: ***286.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -141,6 +141,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Grupo Sipal](www.sipal.com.br)                                       | [Clique Aqui](https://www.linkedin.com/company/gruposipal/)                                           | [Clique Aqui ➡️](https://sipal.enlizt.me/)                                                                                                                                                                                                                                                                        |
 | [Grupo Zaitter](https://www.zaitter.adv.br/)                          | [Clique Aqui](https://www.linkedin.com/company/grupo-zaitter/)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/grupo-zaitter/jobs/)                                                                                                                                                                                                                                            |
 | [Hays](http://www.haysplc.com)                                        | [Clique Aqui](https://www.linkedin.com/company/hays)                                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/hays/jobs/)                                                                                                                                                                                                                                                     |
+| [Headsoft](https://headsoft.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/headsoft-desenvolvimento-de-sistemas/)                 | [Clique Aqui ➡️](https://headsoft.com.br/carreiras/)                                                                                                                                                                                                                                                              |
 | [HealthYou](http://www.healthyou.com.br/)                             | [Clique Aqui](https://www.linkedin.com/company/healthyoubrasil)                                       | [Clique Aqui ➡️](https://www.linkedin.com/company/healthyoubrasil/jobs/)                                                                                                                                                                                                                                          |
 | [Hero99](https://hero99.com.br)                                       | [Clique Aqui](https://www.linkedin.com/company/hero99/)                                               | [Clique Aqui ➡️](https://hero99.com.br/jobs/)                                                                                                                                                                                                                                                                     |
 | [Hilab](https://hilab.com.br/)                                        | [Clique Aqui](https://www.linkedin.com/company/fazumhilab)                                            | [Clique Aqui ➡️](https://hilab.gupy.io)                                                                                                                                                                                                                                                                           |
