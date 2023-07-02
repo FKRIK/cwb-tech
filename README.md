@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-01T02:44:56.585Z
+modified: 2023-07-02T02:31:12.568Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-01T02:44:56.585Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***287.***
+##### Número de empresas listadas: ***288.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -264,6 +264,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Signo Soluções Web](https://site.signoweb.com.br/)                   | [Clique Aqui](https://www.linkedin.com/company/signoweb/)                                             | [Clique Aqui ➡️](https://signoweb.abler.com.br/)                                                                                                                                                                                                                                                                  |
 | [Sinqia](https://sinqia.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/sinqia/)                                               | [Clique Aqui ➡️](https://sinqia.gupy.io/)                                                                                                                                                                                                                                                                         |
 | [Sistema FIEP](https://www.sistemafiep.org.br/)                       | [Clique Aqui](https://www.linkedin.com/company/sistemafiep/)                                          | [Clique Aqui ➡️](https://jobs.jobconvo.com/pt-br/careers/sistema-fiep/35ad6a0f-51a9-4b5f-b1fe-154124819dfd/)                                                                                                                                                                                                      |
+| [SmartHint](https://www.smarthint.co/)                                | [Clique Aqui](https://www.linkedin.com/company/smarthint/)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/smarthint/jobs/)                                                                                                                                                                                                                                                |
 | [Softwall](https://www.softwall.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/softwall)                                              | [Clique Aqui ➡️](https://www.linkedin.com/company/softwall/jobs)                                                                                                                                                                                                                                                  |
 | [Solo Network](https://www.solonetwork.com.br/)                       | [Clique Aqui](https://www.linkedin.com/company/solo-network/)                                         | [Clique Aqui ➡️](https://www.linkedin.com/company/solo-network/jobs/)                                                                                                                                                                                                                                             |
 | [Solvay](https://www.solvay.com/en/)                                  | [Clique Aqui](https://www.linkedin.com/company/solvay)                                                | [Clique Aqui ➡️](https://www.solvay.com/en/career/job-opportunities?f[0]=country%3ABrazil&f[1]=city%3ACuritiba)                                                                                                                                                                                                   |
