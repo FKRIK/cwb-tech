@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-03T01:31:26.475Z
+modified: 2023-07-03T23:47:38.974Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-03T01:31:26.475Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***289.***
+##### Número de empresas listadas: ***290.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -245,6 +245,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Proxys Group](https://www.proxysgroup.com/)                          | [Clique Aqui](https://www.linkedin.com/company/grupoproxys/)                                          | [Clique Aqui ➡️](https://proxysgroup.abler.com.br/)                                                                                                                                                                                                                                                               |
 | [Pumatronix ](https://pumatronix.com/)                                | [Clique Aqui](https://www.linkedin.com/company/pumatronixbrasil)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/pumatronixbrasil/jobs)                                                                                                                                                                                                                                          |
 | [QuiteJá](https://quiteja.com.br/)                                    | [Clique Aqui](https://www.linkedin.com/company/quiteja/)                                              | [Clique Aqui ➡️](https://www.linkedin.com/company/quiteja/jobs/)                                                                                                                                                                                                                                                  |
+| [Radek Systems](http://www.radek.com.br)                              | [Clique Aqui](https://www.linkedin.com/company/radeksystems/)                                         | [Clique Aqui ➡️](https://www.linkedin.com/company/radeksystems/jobs/)                                                                                                                                                                                                                                             |
 | [Rede Lojacorr](https://redelojacorr.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/lojacorr-corretora-de-seguros)                         | [Clique Aqui ➡️](https://redelojacorr.gupy.io/)                                                                                                                                                                                                                                                                   |
 | [Rede Magic](https://www.redemagic.com)                               | [Clique Aqui](https://www.linkedin.com/company/redemagic)                                             | [Clique Aqui ➡️](https://www.redemagic.com/a-agencia/#trabalhe-conosco)                                                                                                                                                                                                                                           |
 | [Renault](https://www.renault.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/renaultgroup/)                                         | [Clique Aqui ➡️](https://jobs.kenoby.com/renaultbrasil/)                                                                                                                                                                                                                                                          |
