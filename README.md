@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-02T02:31:12.568Z
+modified: 2023-07-03T01:31:26.475Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-02T02:31:12.568Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***288.***
+##### Número de empresas listadas: ***289.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -216,6 +216,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Noorden Group](https://www.noorden.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/noorden-group')                                        | [Clique Aqui ➡️](https://jobs.quickin.io/noorden/jobs?page=1)                                                                                                                                                                                                                                                     |
 | [Nordware](https://www.nordware.io)                                   | [Clique Aqui](https://www.linkedin.com/company/nordware-io/)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/nordware-io/jobs/)                                                                                                                                                                                                                                              |
 | [Nox Automação](https://nox.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/nox-automacao)                                         | [Clique Aqui ➡️](https://www.linkedin.com/company/nox-automacao/jobs/)                                                                                                                                                                                                                                            |
+| [NPW Digital](https://www.npw.digital/)                               | [Clique Aqui](https://www.linkedin.com/company/npw-digital/)                                          | [Clique Aqui ➡️](https://jobs.quickin.io/npwdigital/jobs)                                                                                                                                                                                                                                                         |
 | [NVPC](https://www.nvpc.company/)                                     | [Clique Aqui](https://www.linkedin.com/company/novovarejo-com)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/novovarejo-com/jobs)                                                                                                                                                                                                                                            |
 | [NZN](https://nzn.io/)                                                | [Clique Aqui](https://www.linkedin.com/company/nzn-nozebra-network)                                   | [Clique Aqui ➡️](https://nzn.gupy.io/)                                                                                                                                                                                                                                                                            |
 | [Objective](https://www.objective.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/objectivebr)                                           | [Clique Aqui ➡️](https://www.objective.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                  |
