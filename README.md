@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-03T23:47:38.974Z
+modified: 2023-07-05T01:40:18.077Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-03T23:47:38.974Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***290.***
+##### Número de empresas listadas: ***291.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,6 +42,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [BBM Logística](https://www.bbmlogistica.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/bbm-log%C3%ADstica-s.a/)                               | [Clique Aqui ➡️](https://jobs.kenoby.com/bbmlogistica)                                                                                                                                                                                                                                                            |
 | [Bellinati Perez](https://www.bellinatiperez.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/bellinati-perez/)                                      | [Clique Aqui ➡️](https://bellinatiperez.gupy.io/)                                                                                                                                                                                                                                                                 |
 | [Betabit Dev](https://betabit.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/betabit-dev/)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/betabit-dev/jobs/)                                                                                                                                                                                                                                              |
+| [Betha Sistemas](http://www.betha.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/betha-sistemas/)                                       | [Clique Aqui ➡️](https://bethasistemas.gupy.io/)                                                                                                                                                                                                                                                                  |
 | [BigBrain](https://bigbrain.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/bigbrain)                                              | [Clique Aqui ➡️](https://bigbrain.gupy.io)                                                                                                                                                                                                                                                                        |
 | [Bluelight Consulting](https://bluelight.co/)                         | [Clique Aqui](https://www.linkedin.com/company/bluelightco/)                                          | [Clique Aqui ➡️](https://jobs.lever.co/bluelightconsulting?location=Curitiba%2C%20Paran%C3%A1%2C%20Brazil)                                                                                                                                                                                                        |
 | [Bnyou](https://www.bnyou.art)                                        | [Clique Aqui](https://www.linkedin.com/company/bnyou-art/)                                            | [Clique Aqui ➡️](https://www.bnyou.art/carreiras/)                                                                                                                                                                                                                                                                |
