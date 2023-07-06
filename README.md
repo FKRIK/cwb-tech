@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-05T01:40:18.077Z
+modified: 2023-07-06T01:41:59.637Z
 ---
 
 ###### README
@@ -9,12 +9,13 @@ modified: 2023-07-05T01:40:18.077Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***291.***
+##### Número de empresas listadas: ***292.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [200DEV](https://200dev.com/)                                         | [Clique Aqui](https://www.linkedin.com/company/200dev)                                                | [Clique Aqui ➡️](https://200dev.gupy.io/)                                                                                                                                                                                                                                                                         |
 | [Accenture](https://www.accenture.com/br-pt)                          | [Clique Aqui](https://www.linkedin.com/company/accenturebrasil)                                       | [Clique Aqui ➡️](https://www.accenture.com/br-pt/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1&ct=paran%C3%A1%20-%20curitiba)                                                                                                                                                                                      |
+| [ACOM Sistemas](http://www.acomsistemas.com.br)                       | [Clique Aqui](https://www.linkedin.com/company/acom-sistemas/)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/acom-sistemas/jobs/)                                                                                                                                                                                                                                            |
 | [Action Labs](https://www.actionlabs.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/action-labs/)                                          | [Clique Aqui ➡️](https://www.actionlabs.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                 |
 | [ActionLabs](https://www.actionlabs.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/action-labs/)                                          | [Clique Aqui ➡️](https://www.actionlabs.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                 |
 | [Afry](http://www.afry.com)                                           | [Clique Aqui](https://www.linkedin.com/company/afgroup)                                               | [Clique Aqui ➡️](https://afry.com/en/join-us/available-jobs)                                                                                                                                                                                                                                                      |
