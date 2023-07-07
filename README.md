@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-06T01:41:59.637Z
+modified: 2023-07-07T01:40:27.196Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-06T01:41:59.637Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***292.***
+##### Número de empresas listadas: ***293.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,6 +19,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Action Labs](https://www.actionlabs.com.br/)                         | [Clique Aqui](https://www.linkedin.com/company/action-labs/)                                          | [Clique Aqui ➡️](https://www.actionlabs.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                 |
 | [ActionLabs](https://www.actionlabs.com.br/)                          | [Clique Aqui](https://www.linkedin.com/company/action-labs/)                                          | [Clique Aqui ➡️](https://www.actionlabs.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                 |
 | [Afry](http://www.afry.com)                                           | [Clique Aqui](https://www.linkedin.com/company/afgroup)                                               | [Clique Aqui ➡️](https://afry.com/en/join-us/available-jobs)                                                                                                                                                                                                                                                      |
+| [Agência 904](https://904.ag/)                                        | [Clique Aqui](https://www.linkedin.com/company/agencia904/)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/agencia904/jobs/)                                                                                                                                                                                                                                               |
 | [Agência CGDW](http://www.cgdw.com.br)                                | [Clique Aqui](https://www.linkedin.com/company/cgdw/)                                                 | [Clique Aqui ➡️](https://cgdw.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                           |
 | [Agência Red](https://www.agencia.red/)                               | [Clique Aqui](https://www.linkedin.com/company/ag%C3%AAncia-red)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/ag%C3%AAncia-red/jobs)                                                                                                                                                                                                                                          |
 | [Agres](https://agres.com.br/)                                        | [Clique Aqui](https://www.linkedin.com/company/agresagricultura)                                      | [Clique Aqui ➡️](https://agres.com.br/oportunidades/)                                                                                                                                                                                                                                                             |
