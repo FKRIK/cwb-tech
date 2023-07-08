@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-07T01:40:27.196Z
+modified: 2023-07-08T02:05:50.502Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-07T01:40:27.196Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***293.***
+##### Número de empresas listadas: ***294.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -150,6 +150,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Hilab](https://hilab.com.br/)                                        | [Clique Aqui](https://www.linkedin.com/company/fazumhilab)                                            | [Clique Aqui ➡️](https://hilab.gupy.io)                                                                                                                                                                                                                                                                           |
 | [Hipsters.Jobs](https://hipsters.jobs/)                               | [Clique Aqui](https://www.linkedin.com/school/aluracursos/)                                           | [Clique Aqui ➡️](https://hipsters.jobs/jobs/?city=Curitiba&p=2&s=33)                                                                                                                                                                                                                                              |
 | [Houseasy](http://www.houseasy.net)                                   | [Clique Aqui](https://www.linkedin.com/company/houseasy)                                              | [Clique Aqui ➡️](https://web.houseasy.net/trabalhe-conosco)                                                                                                                                                                                                                                                       |
+| [HUEM](https://hospital.mackenzie.br/huem/home/)                      | [Clique Aqui](https://www.linkedin.com/company/hospitalmackenziecuritiba/)                            | [Clique Aqui ➡️](https://hospital.mackenzie.br/huem/colaboradores/trabalhe-conosco/)                                                                                                                                                                                                                              |
 | [Hugtak](https://hugtak.com/pt-br/)                                   | [Clique Aqui](https://www.linkedin.com/company/hugtak-solu%C3%A7%C3%B5es-e-sistemas/)                 | [Clique Aqui ➡️](https://www.linkedin.com/company/hugtak-solu%C3%A7%C3%B5es-e-sistemas/jobs/)                                                                                                                                                                                                                     |
 | [Humtech](http://www.humtech.com.br)                                  | [Clique Aqui](https://www.linkedin.com/company/humtech)                                               | [Clique Aqui ➡️](https://jobs.quickin.io/humtech/jobs?city=Curitiba)                                                                                                                                                                                                                                              |
 | [Hype Empreendimentos](https://hypeempreendimentos.com.br/)           | [Clique Aqui](https://www.linkedin.com/company/hypeempreendimentos)                                   | [Clique Aqui ➡️](https://sejahype.gupy.io/)                                                                                                                                                                                                                                                                       |
