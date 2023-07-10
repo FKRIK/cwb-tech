@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-08T02:05:50.502Z
+modified: 2023-07-10T01:09:06.958Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-08T02:05:50.502Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***294.***
+##### Número de empresas listadas: ***295.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -255,6 +255,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Renault](https://www.renault.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/renaultgroup/)                                         | [Clique Aqui ➡️](https://jobs.kenoby.com/renaultbrasil/)                                                                                                                                                                                                                                                          |
 | [RentCars](https://www.rentcars.com/pt-br/)                           | [Clique Aqui](https://www.linkedin.com/company/rentcars)                                              | [Clique Aqui ➡️](https://careers.rentcars.com/#jobs)                                                                                                                                                                                                                                                              |
 | [ROIT](https://roit.com.br/)                                          | [Clique Aqui](https://www.linkedin.com/company/roit-ai/)                                              | [Clique Aqui ➡️](https://www.glassdoor.com.br/Vagas/ROIT-Vagas-E2492726.htm)                                                                                                                                                                                                                                      |
+| [Roko](https://www.roko.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/osm-sistemas/)                                         | [Clique Aqui ➡️](https://www.linkedin.com/company/osm-sistemas/jobs/)                                                                                                                                                                                                                                             |
 | [Roost](https://roost.com.br/)                                        | [Clique Aqui](https://www.linkedin.com/company/oficialroost)                                          | [Clique Aqui ➡️](https://roost.gupy.io/)                                                                                                                                                                                                                                                                          |
 | [RP Info Sistemas](https://www.rpinfo.com.br/)                        | [Clique Aqui](https://www.linkedin.com/company/rpinfosistemas)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/rpinfosistemas/jobs/)                                                                                                                                                                                                                                           |
 | [RRS Software](http://www.rrs-software.com.br)                        | [Clique Aqui](https://www.linkedin.com/company/rrs-software-ltda-)                                    | [Clique Aqui ➡️](https://www.linkedin.com/company/rrs-software-ltda-/jobs/)                                                                                                                                                                                                                                       |
