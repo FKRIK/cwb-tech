@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-11T01:33:36.778Z
+modified: 2023-07-12T01:27:48.559Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-11T01:33:36.778Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***296.***
+##### Número de empresas listadas: ***297.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,6 +42,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Banco Bari](https://bancobari.com.br/)                               | [Clique Aqui](https://www.linkedin.com/company/bancobari/)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/bancobari/jobs/)                                                                                                                                                                                                                                                |
 | [Banco Nacional de Empregos](https://www.bne.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/bneempregos/)                                          | [Clique Aqui ➡️](https://www.bne.com.br/jobs/bne-tech)                                                                                                                                                                                                                                                            |
 | [BBM Logística](https://www.bbmlogistica.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/bbm-log%C3%ADstica-s.a/)                               | [Clique Aqui ➡️](https://jobs.kenoby.com/bbmlogistica)                                                                                                                                                                                                                                                            |
+| [Beenoculus](https://beenoculus.com.br/en/home/)                      | [Clique Aqui](https://www.linkedin.com/company/beenoculus/)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/beenoculus/jobs/)                                                                                                                                                                                                                                               |
 | [Bellinati Perez](https://www.bellinatiperez.com.br/)                 | [Clique Aqui](https://www.linkedin.com/company/bellinati-perez/)                                      | [Clique Aqui ➡️](https://bellinatiperez.gupy.io/)                                                                                                                                                                                                                                                                 |
 | [Betabit Dev](https://betabit.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/betabit-dev/)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/betabit-dev/jobs/)                                                                                                                                                                                                                                              |
 | [Betha Sistemas](http://www.betha.com.br)                             | [Clique Aqui](https://www.linkedin.com/company/betha-sistemas/)                                       | [Clique Aqui ➡️](https://bethasistemas.gupy.io/)                                                                                                                                                                                                                                                                  |
