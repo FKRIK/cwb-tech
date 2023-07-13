@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-12T01:27:48.559Z
+modified: 2023-07-13T01:39:34.577Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-12T01:27:48.559Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***297.***
+##### Número de empresas listadas: ***298.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -285,6 +285,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Thales](https://www.thalesgroup.com/en)                              | [Clique Aqui](https://www.linkedin.com/company/thales)                                                | [Clique Aqui ➡️](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?locationCountry=1a29bb1357b240ab99a2fa755cc87c0e)                                                                                                                                                                                        |
 | [TIVIT](http://www.tivit.com)                                         | [Clique Aqui](https://www.linkedin.com/company/tivit)                                                 | [Clique Aqui ➡️](https://jobs.kenoby.com/tivit)                                                                                                                                                                                                                                                                   |
 | [Totvs Curitiba](https://curitiba.totvs.com/)                         | [Clique Aqui](https://www.linkedin.com/company/totvs-unidade-curitiba/)                               | [Clique Aqui ➡️](https://totvscuritiba.abler.com.br/)                                                                                                                                                                                                                                                             |
+| [TROC](https://troc.com.br/)                                          | [Clique Aqui](https://www.linkedin.com/company/trocreal/)                                             | [Clique Aqui ➡️](https://troc.gupy.io/)                                                                                                                                                                                                                                                                           |
 | [Tunts](https://tunts.rocks/)                                         | [Clique Aqui](https://www.linkedin.com/company/tuntsrocks)                                            | [Clique Aqui ➡️](https://tunts.gupy.io/)                                                                                                                                                                                                                                                                          |
 | [UDS Tecnologia](http://www.uds.com.br)                               | [Clique Aqui](https://www.linkedin.com/company/udstecnologia/)                                        | [Clique Aqui ➡️](https://vagas.uds.com.br/)                                                                                                                                                                                                                                                                       |
 | [Uni.cloud](https://uni.cloud)                                        | [Clique Aqui](https://www.linkedin.com/company/uni-cloud)                                             | [Clique Aqui ➡️](https://www.linkedin.com/company/uni-cloud/jobs/)                                                                                                                                                                                                                                                |
