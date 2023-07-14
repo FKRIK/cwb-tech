@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-13T01:39:34.577Z
+modified: 2023-07-14T01:37:49.481Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-13T01:39:34.577Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***298.***
+##### Número de empresas listadas: ***299.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -284,6 +284,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Teletex](https://www.teletex.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/teletex)                                               | [Clique Aqui ➡️](https://teletex.gupy.io/)                                                                                                                                                                                                                                                                        |
 | [Thales](https://www.thalesgroup.com/en)                              | [Clique Aqui](https://www.linkedin.com/company/thales)                                                | [Clique Aqui ➡️](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?locationCountry=1a29bb1357b240ab99a2fa755cc87c0e)                                                                                                                                                                                        |
 | [TIVIT](http://www.tivit.com)                                         | [Clique Aqui](https://www.linkedin.com/company/tivit)                                                 | [Clique Aqui ➡️](https://jobs.kenoby.com/tivit)                                                                                                                                                                                                                                                                   |
+| [TNB.studio](http://tnb.studio)                                       | [Clique Aqui](https://www.linkedin.com/company/tnb.studio/)                                           | [Clique Aqui ➡️](https://www.tnb.studio/institucional)                                                                                                                                                                                                                                                            |
 | [Totvs Curitiba](https://curitiba.totvs.com/)                         | [Clique Aqui](https://www.linkedin.com/company/totvs-unidade-curitiba/)                               | [Clique Aqui ➡️](https://totvscuritiba.abler.com.br/)                                                                                                                                                                                                                                                             |
 | [TROC](https://troc.com.br/)                                          | [Clique Aqui](https://www.linkedin.com/company/trocreal/)                                             | [Clique Aqui ➡️](https://troc.gupy.io/)                                                                                                                                                                                                                                                                           |
 | [Tunts](https://tunts.rocks/)                                         | [Clique Aqui](https://www.linkedin.com/company/tuntsrocks)                                            | [Clique Aqui ➡️](https://tunts.gupy.io/)                                                                                                                                                                                                                                                                          |
