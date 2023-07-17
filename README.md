@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-16T02:50:16.241Z
+modified: 2023-07-17T01:47:33.203Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-16T02:50:16.241Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***300.***
+##### Número de empresas listadas: ***301.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -83,6 +83,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [CVA Consultoria](https://cvaconsultoria.com.br)                      | [Clique Aqui](https://www.linkedin.com/company/cvaconsultoria/)                                       | [Clique Aqui ➡️](https://cvaconsultoria.com.br/trabalhe-conosco/)                                                                                                                                                                                                                                                 |
 | [Daju](https://www.daju.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/lojas-daju/)                                           | [Clique Aqui ➡️](https://lojasdaju.abler.com.br/)                                                                                                                                                                                                                                                                 |
 | [Dalcatech](https://www.dalcatech.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/dalcatech-automa-o-e-desenvolvimento-de-software-ltda) | [Clique Aqui ➡️](https://www.linkedin.com/company/dalcatech-automa-o-e-desenvolvimento-de-software-ltda/jobs/)                                                                                                                                                                                                    |
+| [DashSkins](https://dashskins.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/dashskins/)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/dashskins/jobs/)                                                                                                                                                                                                                                                |
 | [Datainfo](http://www.datainfo.inf.br)                                | [Clique Aqui](https://www.linkedin.com/company/datainfo-ti/)                                          | [Clique Aqui ➡️](https://datainfo.gupy.io/)                                                                                                                                                                                                                                                                       |
 | [Dbm](https://www.dbm.com.br/contact-center/)                         | [Clique Aqui](https://www.linkedin.com/company/dbmcontactcenter)                                      | [Clique Aqui ➡️](https://www.linkedin.com/company/dbmcontactcenter/jobs/)                                                                                                                                                                                                                                         |
 | [DentalUni](https://www.dentaluni.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/dental-uni-cooperativa-odontol%C3%B3gica/)             | [Clique Aqui ➡️](https://dentaluni.gupy.io/)                                                                                                                                                                                                                                                                      |
