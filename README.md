@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-17T01:47:33.203Z
+modified: 2023-07-20T01:33:44.777Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-17T01:47:33.203Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***301.***
+##### Número de empresas listadas: ***302.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -183,6 +183,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Klupp](https://klupp.com.br)                                         | [Clique Aqui](https://www.linkedin.com/company/klupp-software)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/klupp-software/jobs/)                                                                                                                                                                                                                                           |
 | [Korbantech](https://www.korbantech.com.br)                           | [Clique Aqui](https://www.linkedin.com/company/korbantech)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/korbantech/jobs/)                                                                                                                                                                                                                                               |
 | [Korp](http://www.korp.com.br/)                                       | [Clique Aqui](https://www.linkedin.com/company/viasoft-korp/)                                         | [Clique Aqui ➡️](https://korp.gupy.io/)                                                                                                                                                                                                                                                                           |
+| [Lactec](https://lactec.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/lactec/)                                               | [Clique Aqui ➡️](https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=lactecorgbr&tenantdomain=lactec.com.br#!/vacancies/list)                                                                                                                                                                              |
 | [Lafort](https://lafort.com.br/)                                      | [Clique Aqui](https://www.linkedin.com/company/lafort)                                                | [Clique Aqui ➡️](https://www.linkedin.com/company/lafort/jobs/)                                                                                                                                                                                                                                                   |
 | [Landis+Gyr](https://www.landisgyr.com/)                              | [Clique Aqui](https://www.linkedin.com/company/landis)                                                | [Clique Aqui ➡️](https://careers.landisgyr.com/search/?createNewAlert=false&q=&locationsearch=Curitiba&optionsFacetsDD_country=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=)                                                                                                                      |
 | [Lavoro Agro](http://lavoroagro.com/)                                 | [Clique Aqui](https://www.linkedin.com/company/lavoroagro)                                            | [Clique Aqui ➡️](https://jobs.kenoby.com/lavoro)                                                                                                                                                                                                                                                                  |
