@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-20T01:33:44.777Z
+modified: 2023-07-22T01:07:24.389Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-20T01:33:44.777Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***302.***
+##### Número de empresas listadas: ***303.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -284,6 +284,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [ST-One](https://st-one.io/)                                          | [Clique Aqui](https://www.linkedin.com/company/st-one-ltda)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/st-one-ltda/jobs)                                                                                                                                                                                                                                               |
 | [StartLaw](https://thestartlaw.com/)                                  | [Clique Aqui](https://www.linkedin.com/company/thestartlaw/)                                          | [Clique Aqui ➡️](https://thestartlaw.com/carreiras/)                                                                                                                                                                                                                                                              |
 | [Stefanini](https://stefanini.com/pt-br)                              | [Clique Aqui](https://www.linkedin.com/company/stefanini-brasil/)                                     | [Clique Aqui ➡️](https://jobs.kenoby.com/vagasstefanini)                                                                                                                                                                                                                                                          |
+| [Teledata](https://www.teledatabrasil.com.br/)                        | [Clique Aqui](https://www.linkedin.com/company/teledatabr/)                                           | [Clique Aqui ➡️](https://www.linkedin.com/company/teledatabr/jobs/)                                                                                                                                                                                                                                               |
 | [Teletex](https://www.teletex.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/teletex)                                               | [Clique Aqui ➡️](https://teletex.gupy.io/)                                                                                                                                                                                                                                                                        |
 | [Thales](https://www.thalesgroup.com/en)                              | [Clique Aqui](https://www.linkedin.com/company/thales)                                                | [Clique Aqui ➡️](https://thales.wd3.myworkdayjobs.com/en-US/Careers/jobs?locationCountry=1a29bb1357b240ab99a2fa755cc87c0e)                                                                                                                                                                                        |
 | [TIVIT](http://www.tivit.com)                                         | [Clique Aqui](https://www.linkedin.com/company/tivit)                                                 | [Clique Aqui ➡️](https://jobs.kenoby.com/tivit)                                                                                                                                                                                                                                                                   |
