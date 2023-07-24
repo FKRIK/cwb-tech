@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-22T01:07:24.389Z
+modified: 2023-07-24T01:29:38.598Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-22T01:07:24.389Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***303.***
+##### Número de empresas listadas: ***304.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -196,6 +196,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [Lume Tecnologia](https://www.lumegrupo.com.br)                       | [Clique Aqui](https://www.linkedin.com/company/grupolumedetecnologia)                                 | [Clique Aqui ➡️](https://www.linkedin.com/company/grupolumedetecnologia/jobs/)                                                                                                                                                                                                                                    |
 | [LW Tecnologia](https://www.lwtecnologia.com.br/)                     | [Clique Aqui](https://www.linkedin.com/company/lwtecnologia)                                          | [Clique Aqui ➡️](https://lwtecnologia.solides.jobs/vacancies)                                                                                                                                                                                                                                                     |
 | [MadeiraMadeira](https://www.madeiramadeira.com.br/)                  | [Clique Aqui](https://www.linkedin.com/company/madeiramadeira/)                                       | [Clique Aqui ➡️](https://madeiracarreira.gupy.io/)                                                                                                                                                                                                                                                                |
+| [Mannesoft](https://mannesoft.com.br/)                                | [Clique Aqui](https://www.linkedin.com/company/mannesoft-prime/)                                      | [Clique Aqui ➡️](https://mannesoft.com.br/carreiras#sectionJobs)                                                                                                                                                                                                                                                  |
 | [Matilha Digital](https://www.matilha.digital/)                       | [Clique Aqui](https://www.linkedin.com/company/matilhaestudio)                                        | [Clique Aqui ➡️](https://jobs.quickin.io/matilhadigital/jobs)                                                                                                                                                                                                                                                     |
 | [matrixcargo](https://matrixcargo.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/matrix-cargo-logtech/)                                 | [Clique Aqui ➡️](https://matrixcargo.gupy.io/)                                                                                                                                                                                                                                                                    |
 | [Medalhão Persa](http://www.medalhaopersa.com.br)                     | [Clique Aqui](https://www.linkedin.com/company/medalh%C3%A3o-persa/)                                  | [Clique Aqui ➡️](https://www.linkedin.com/company/medalh%C3%A3o-persa/jobs/)                                                                                                                                                                                                                                      |
