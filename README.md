@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-24T01:29:38.598Z
+modified: 2023-07-27T01:00:40.267Z
 ---
 
 ###### README
@@ -9,10 +9,11 @@ modified: 2023-07-24T01:29:38.598Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***304.***
+##### Número de empresas listadas: ***305.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [4results](https://www.4results.com.br/)                              | [Clique Aqui](https://www.linkedin.com/company/4results-ltda-/)                                       | [Clique Aqui ➡️](https://www.4results.com.br/trabalhe-conosco.php)                                                                                                                                                                                                                                                |
 | [200DEV](https://200dev.com/)                                         | [Clique Aqui](https://www.linkedin.com/company/200dev)                                                | [Clique Aqui ➡️](https://200dev.gupy.io/)                                                                                                                                                                                                                                                                         |
 | [Accenture](https://www.accenture.com/br-pt)                          | [Clique Aqui](https://www.linkedin.com/company/accenturebrasil)                                       | [Clique Aqui ➡️](https://www.accenture.com/br-pt/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1&ct=paran%C3%A1%20-%20curitiba)                                                                                                                                                                                      |
 | [ACOM Sistemas](http://www.acomsistemas.com.br)                       | [Clique Aqui](https://www.linkedin.com/company/acom-sistemas/)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/acom-sistemas/jobs/)                                                                                                                                                                                                                                            |
