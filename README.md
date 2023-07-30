@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-27T01:00:40.267Z
+modified: 2023-07-30T02:51:39.961Z
 ---
 
 ###### README
@@ -9,7 +9,7 @@ modified: 2023-07-27T01:00:40.267Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***305.***
+##### Número de empresas listadas: ***306.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -73,6 +73,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [CITS](https://www.cits.br/)                                          | [Clique Aqui](https://www.linkedin.com/company/cits)                                                  | [Clique Aqui ➡️](https://www.cits.br/webp/vagas/107)                                                                                                                                                                                                                                                              |
 | [Clinicarx](http://clinicarx.com.br)                                  | [Clique Aqui](https://www.linkedin.com/company/clinicarx)                                             | [Clique Aqui ➡️](https://clinicarx.abler.com.br/)                                                                                                                                                                                                                                                                 |
 | [Club Athletico Paranaense](https://www.athletico.com.br/)            | [Clique Aqui](https://www.linkedin.com/company/athleticoparanaense/)                                  | [Clique Aqui ➡️](https://athletico.gupy.io/)                                                                                                                                                                                                                                                                      |
+| [Clube Curitibano](http://curitibano.com.br)                          | [Clique Aqui](https://www.linkedin.com/company/clube-curitibano/)                                     | [Clique Aqui ➡️](https://www.linkedin.com/company/clube-curitibano/jobs/)                                                                                                                                                                                                                                         |
 | [Clube do Malte](https://www.clubedomalte.com.br/)                    | [Clique Aqui](https://www.linkedin.com/company/clube-do-malte/)                                       | [Clique Aqui ➡️](https://www.clubedomalte.com.br/vagas)                                                                                                                                                                                                                                                           |
 | [Code.Sign](https://codesign.ag/)                                     | [Clique Aqui](https://www.linkedin.com/company/codesignsoftwarehouse)                                 | [Clique Aqui ➡️](https://www.linkedin.com/company/codesignsoftwarehouse/jobs/)                                                                                                                                                                                                                                    |
 | [Condor](https://www.condor.com.br/)                                  | [Clique Aqui](https://www.linkedin.com/company/redecondor)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/redecondor/jobs/)                                                                                                                                                                                                                                               |
