@@ -1,7 +1,8 @@
 ---
 title: README
+tags: [Notebooks/CWB-TECH]
 created: 2023-02-21T17:26:49.966Z
-modified: 2023-07-30T02:51:39.961Z
+modified: 2023-08-07T01:04:45.190Z
 ---
 
 ###### README
@@ -9,7 +10,7 @@ modified: 2023-07-30T02:51:39.961Z
 ## Empresas em Curitiba que contratam no setor de tecnologia
 
 Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova empresa.
-##### Número de empresas listadas: ***306.***
+##### Número de empresas listadas: ***307.***
 
 | Nome                                                                  | LinkedIn                                                                                              | Vagas                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,6 +97,7 @@ Este repositório é (quase)diariamente atualizado com, pelo menos, uma nova emp
 | [e-Ship WMS](http://www.eship.com.br)                                 | [Clique Aqui](https://www.linkedin.com/company/e-ship-wms)                                            | [Clique Aqui ➡️](https://www.linkedin.com/company/e-ship-wms/jobs/)                                                                                                                                                                                                                                               |
 | [Ebanx](https://business.ebanx.com/pt-br/)                            | [Clique Aqui](https://www.linkedin.com/company/ebanx/)                                                | [Clique Aqui ➡️](https://boards.greenhouse.io/ebanx)                                                                                                                                                                                                                                                              |
 | [Econet Editora](http://www.econeteditora.com.br/)                    | [Clique Aqui](https://www.linkedin.com/company/econeteditoraempresarial)                              | [Clique Aqui ➡️](https://www.linkedin.com/company/econeteditoraempresarial/jobs/)                                                                                                                                                                                                                                 |
+| [Editora Opet](http://www.editoraopet.com.br/)                        | [Clique Aqui](https://www.linkedin.com/company/editoraopet/)                                          | [Clique Aqui ➡️](https://www.linkedin.com/company/editoraopet/jobs/)                                                                                                                                                                                                                                              |
 | [EGS Sistemas](https://egssistemas.com.br/)                           | [Clique Aqui](https://www.linkedin.com/company/egs-sistemas/)                                         | [Clique Aqui ➡️](https://egssistemas.com.br/trabalhe-conosco)                                                                                                                                                                                                                                                     |
 | [Elaborata](https://www.elaborata.com.br/)                            | [Clique Aqui](https://www.linkedin.com/company/elaboratatreinamentos/)                                | [Clique Aqui ➡️](https://www.elaborata.com.br/vagas)                                                                                                                                                                                                                                                              |
 | [Electra Energy](https://electraenergy.com.br/)                       | [Clique Aqui](https://www.linkedin.com/company/electra-energy)                                        | [Clique Aqui ➡️](https://www.linkedin.com/company/electra-energy/jobs/)                                                                                                                                                                                                                                           |
